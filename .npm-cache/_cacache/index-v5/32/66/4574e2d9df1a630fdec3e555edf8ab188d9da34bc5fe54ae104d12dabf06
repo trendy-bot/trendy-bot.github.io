@@ -1,0 +1,2 @@
+
+aa582102c6befed3251f5e89e85836f8389567fc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/quansync","integrity":null,"time":1775309078901,"size":"262","metadata":{"time":1775309078901,"url":"https://registry.npm.taobao.org/quansync","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:39 GMT","location":"https://registry.npmmirror.com/quansync"},"options":{"compress":true},"status":301}}

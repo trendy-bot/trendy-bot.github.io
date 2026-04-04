@@ -1,0 +1,2 @@
+
+334b6ff9ff88a5f1798df0bc20bac66ca1fbfe85	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/package-manager-detector","integrity":null,"time":1775309029299,"size":"262","metadata":{"time":1775309029299,"url":"https://registry.npm.taobao.org/package-manager-detector","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/package-manager-detector"},"options":{"compress":true},"status":301}}

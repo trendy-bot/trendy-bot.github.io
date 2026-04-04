@@ -1,0 +1,2 @@
+
+0819d1f91332afefcffb04cafe7443a4608f28c7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/colorette","integrity":null,"time":1775309078079,"size":"262","metadata":{"time":1775309078079,"url":"https://registry.npm.taobao.org/colorette","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:38 GMT","location":"https://registry.npmmirror.com/colorette"},"options":{"compress":true},"status":301}}

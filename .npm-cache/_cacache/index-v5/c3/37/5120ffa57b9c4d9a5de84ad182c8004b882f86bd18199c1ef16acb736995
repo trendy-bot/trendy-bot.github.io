@@ -1,0 +1,2 @@
+
+904c07aa58ccec1567373ece6b85e96bd140b91f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/pg-query-stream","integrity":null,"time":1775309057284,"size":"262","metadata":{"time":1775309057284,"url":"https://registry.npm.taobao.org/pg-query-stream","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:18 GMT","location":"https://registry.npmmirror.com/pg-query-stream"},"options":{"compress":true},"status":301}}

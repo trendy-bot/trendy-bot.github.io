@@ -1,0 +1,2 @@
+
+999916303c042ebe00a2006cc8b09ad57752112b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/magicast","integrity":null,"time":1775309029287,"size":"262","metadata":{"time":1775309029287,"url":"https://registry.npm.taobao.org/magicast","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/magicast"},"options":{"compress":true},"status":301}}

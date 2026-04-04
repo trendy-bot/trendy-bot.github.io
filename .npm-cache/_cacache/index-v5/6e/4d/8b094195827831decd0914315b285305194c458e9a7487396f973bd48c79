@@ -1,0 +1,2 @@
+
+b5ad0c1ed2ea07513ccb1cf5db13eb205a0cdb94	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/http-cache-semantics","integrity":null,"time":1775309029164,"size":"262","metadata":{"time":1775309029164,"url":"https://registry.npm.taobao.org/http-cache-semantics","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/http-cache-semantics"},"options":{"compress":true},"status":301}}

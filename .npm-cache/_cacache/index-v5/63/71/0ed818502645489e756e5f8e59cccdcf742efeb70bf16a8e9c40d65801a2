@@ -1,0 +1,2 @@
+
+96737b977e78d067895803861dfc3a010b9d8f47	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/tiny-inflate","integrity":null,"time":1775309061393,"size":"262","metadata":{"time":1775309061393,"url":"https://registry.npm.taobao.org/tiny-inflate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:22 GMT","location":"https://registry.npmmirror.com/tiny-inflate"},"options":{"compress":true},"status":301}}

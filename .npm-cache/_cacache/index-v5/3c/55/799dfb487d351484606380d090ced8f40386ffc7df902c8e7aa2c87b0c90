@@ -1,0 +1,2 @@
+
+42c6e3920d596d64b3e2b52cda8343688aa9e47c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/unstorage","integrity":null,"time":1775309029456,"size":"262","metadata":{"time":1775309029456,"url":"https://registry.npm.taobao.org/unstorage","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/unstorage"},"options":{"compress":true},"status":301}}

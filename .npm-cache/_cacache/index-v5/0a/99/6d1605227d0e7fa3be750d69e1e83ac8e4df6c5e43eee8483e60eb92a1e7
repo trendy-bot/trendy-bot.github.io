@@ -1,0 +1,2 @@
+
+e3f86ca51167268ef4c7a1998cedf582588ac6d3	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@vercel%2fanalytics","integrity":null,"time":1775309028722,"size":"262","metadata":{"time":1775309028722,"url":"https://registry.npm.taobao.org/@vercel%2fanalytics","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/@vercel%2fanalytics"},"options":{"compress":true},"status":301}}

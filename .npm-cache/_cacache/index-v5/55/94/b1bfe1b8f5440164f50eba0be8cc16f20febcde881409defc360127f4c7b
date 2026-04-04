@@ -1,0 +1,2 @@
+
+21bd128bfcb1f8c01cec06999f6f2f9213e249ef	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/svelte","integrity":null,"time":1775309035587,"size":"262","metadata":{"time":1775309035587,"url":"https://registry.npm.taobao.org/svelte","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:56 GMT","location":"https://registry.npmmirror.com/svelte"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+72086cc37880fdde196e5ae4d180798a950705af	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/yocto-spinner","integrity":null,"time":1775309029532,"size":"262","metadata":{"time":1775309029532,"url":"https://registry.npm.taobao.org/yocto-spinner","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/yocto-spinner"},"options":{"compress":true},"status":301}}

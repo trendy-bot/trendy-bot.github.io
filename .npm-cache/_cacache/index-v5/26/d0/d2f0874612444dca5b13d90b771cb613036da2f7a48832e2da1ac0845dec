@@ -1,0 +1,2 @@
+
+af719788aa32cfb0038f286f7020ae75a622e6e1	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/unconfig","integrity":null,"time":1775309078786,"size":"262","metadata":{"time":1775309078786,"url":"https://registry.npm.taobao.org/unconfig","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:39 GMT","location":"https://registry.npmmirror.com/unconfig"},"options":{"compress":true},"status":301}}

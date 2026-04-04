@@ -1,0 +1,2 @@
+
+09caa3e741ccc1b8dabbb18bd1804fa34d0d86f9	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/drizzle-orm","integrity":null,"time":1775309047810,"size":"262","metadata":{"time":1775309047810,"url":"https://registry.npm.taobao.org/drizzle-orm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:08 GMT","location":"https://registry.npmmirror.com/drizzle-orm"},"options":{"compress":true},"status":301}}

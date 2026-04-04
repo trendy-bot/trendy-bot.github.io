@@ -1,0 +1,2 @@
+
+46db581ded27e514d24d771be14b55a07cb05cce	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@volar%2flanguage-server","integrity":null,"time":1775309032620,"size":"262","metadata":{"time":1775309032620,"url":"https://registry.npm.taobao.org/@volar%2flanguage-server","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:53 GMT","location":"https://registry.npmmirror.com/@volar%2flanguage-server"},"options":{"compress":true},"status":301}}

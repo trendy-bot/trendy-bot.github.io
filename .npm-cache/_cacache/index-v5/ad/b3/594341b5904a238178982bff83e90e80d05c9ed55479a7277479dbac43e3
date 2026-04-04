@@ -1,0 +1,2 @@
+
+a19f06a1266aa01c6a30f1eb50ad346a6c64032f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/trough","integrity":null,"time":1775309061215,"size":"262","metadata":{"time":1775309061215,"url":"https://registry.npm.taobao.org/trough","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:22 GMT","location":"https://registry.npmmirror.com/trough"},"options":{"compress":true},"status":301}}

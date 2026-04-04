@@ -1,0 +1,2 @@
+
+0c821baa8f9fcf3f8da386d679b64546e87048b4	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/bun-types","integrity":null,"time":1775309055929,"size":"262","metadata":{"time":1775309055929,"url":"https://registry.npm.taobao.org/bun-types","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:16 GMT","location":"https://registry.npmmirror.com/bun-types"},"options":{"compress":true},"status":301}}

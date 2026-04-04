@@ -1,0 +1,2 @@
+
+c5b1489148b66df0b9fc26b39c85beb6d5130447	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/deterministic-object-hash","integrity":null,"time":1775309029060,"size":"262","metadata":{"time":1775309029060,"url":"https://registry.npm.taobao.org/deterministic-object-hash","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/deterministic-object-hash"},"options":{"compress":true},"status":301}}

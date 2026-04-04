@@ -1,0 +1,2 @@
+
+8e38b5bdebdf5427b30cbf5e3383f23a7c959712	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/flat-cache","integrity":null,"time":1775309061743,"size":"262","metadata":{"time":1775309061743,"url":"https://registry.npm.taobao.org/flat-cache","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:22 GMT","location":"https://registry.npmmirror.com/flat-cache"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+614b436ce0a1c9d690e5c80177871b8ab480121b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/hastscript","integrity":null,"time":1775309063509,"size":"262","metadata":{"time":1775309063509,"url":"https://registry.npm.taobao.org/hastscript","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:24 GMT","location":"https://registry.npmmirror.com/hastscript"},"options":{"compress":true},"status":301}}

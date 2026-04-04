@@ -1,0 +1,2 @@
+
+cdb0a7e93cb4b682f8bbd638b429d64abc7bdf18	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vscode-html-languageservice","integrity":null,"time":1775309032637,"size":"262","metadata":{"time":1775309032637,"url":"https://registry.npm.taobao.org/vscode-html-languageservice","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:53 GMT","location":"https://registry.npmmirror.com/vscode-html-languageservice"},"options":{"compress":true},"status":301}}

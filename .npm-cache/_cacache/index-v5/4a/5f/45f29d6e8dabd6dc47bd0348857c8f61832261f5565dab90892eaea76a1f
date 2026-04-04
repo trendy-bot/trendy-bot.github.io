@@ -1,0 +1,2 @@
+
+8ef02ae6555e94eb506840ff75f3d316b906fe4a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/domutils","integrity":null,"time":1775309067118,"size":"262","metadata":{"time":1775309067118,"url":"https://registry.npm.taobao.org/domutils","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:27 GMT","location":"https://registry.npmmirror.com/domutils"},"options":{"compress":true},"status":301}}

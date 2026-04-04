@@ -1,0 +1,2 @@
+
+f36eca58ae264942ad3009461b21a8eb2707232c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/volar-service-prettier","integrity":null,"time":1775309032637,"size":"262","metadata":{"time":1775309032637,"url":"https://registry.npm.taobao.org/volar-service-prettier","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:53 GMT","location":"https://registry.npmmirror.com/volar-service-prettier"},"options":{"compress":true},"status":301}}

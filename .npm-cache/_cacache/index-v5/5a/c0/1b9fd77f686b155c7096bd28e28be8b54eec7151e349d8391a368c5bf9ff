@@ -1,0 +1,2 @@
+
+1c6d8cd0f7e7218c49cecca0ada29d7999081507	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/emmet","integrity":null,"time":1775309069359,"size":"262","metadata":{"time":1775309069359,"url":"https://registry.npm.taobao.org/emmet","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:30 GMT","location":"https://registry.npmmirror.com/emmet"},"options":{"compress":true},"status":301}}

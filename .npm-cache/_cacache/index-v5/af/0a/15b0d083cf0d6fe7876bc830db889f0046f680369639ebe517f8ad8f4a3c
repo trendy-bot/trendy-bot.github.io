@@ -1,0 +1,2 @@
+
+5602fec5260d706f854b64f7e382b5d58b4cceab	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/recma-parse","integrity":null,"time":1775309076245,"size":"262","metadata":{"time":1775309076245,"url":"https://registry.npm.taobao.org/recma-parse","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:37 GMT","location":"https://registry.npmmirror.com/recma-parse"},"options":{"compress":true},"status":301}}

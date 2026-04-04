@@ -1,0 +1,2 @@
+
+858b7459220ff18083a9d2b2144a4efb037dc157	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/which-pm-runs","integrity":null,"time":1775309060263,"size":"262","metadata":{"time":1775309060263,"url":"https://registry.npm.taobao.org/which-pm-runs","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:21 GMT","location":"https://registry.npmmirror.com/which-pm-runs"},"options":{"compress":true},"status":301}}

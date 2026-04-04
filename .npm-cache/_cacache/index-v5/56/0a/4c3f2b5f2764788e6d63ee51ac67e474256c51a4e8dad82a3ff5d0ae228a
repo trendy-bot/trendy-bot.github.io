@@ -1,0 +1,2 @@
+
+39407b892f5ee695634f471fac5b138569acabec	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/prisma","integrity":null,"time":1775309052423,"size":"262","metadata":{"time":1775309052423,"url":"https://registry.npm.taobao.org/prisma","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:13 GMT","location":"https://registry.npmmirror.com/prisma"},"options":{"compress":true},"status":301}}

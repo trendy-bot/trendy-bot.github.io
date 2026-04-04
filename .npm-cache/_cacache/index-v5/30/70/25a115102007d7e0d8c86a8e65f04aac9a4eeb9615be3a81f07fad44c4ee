@@ -1,0 +1,2 @@
+
+4adbb27a26f8f204a770caf6fe12aa81454709de	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/xxhash-wasm","integrity":null,"time":1775309029510,"size":"262","metadata":{"time":1775309029510,"url":"https://registry.npm.taobao.org/xxhash-wasm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/xxhash-wasm"},"options":{"compress":true},"status":301}}

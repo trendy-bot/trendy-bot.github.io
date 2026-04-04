@@ -1,0 +1,2 @@
+
+8f5d0667929a7a72a3847991ce9d6281ee9bb036	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/astrojs-compiler-sync","integrity":null,"time":1775309062316,"size":"262","metadata":{"time":1775309062316,"url":"https://registry.npm.taobao.org/astrojs-compiler-sync","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:23 GMT","location":"https://registry.npmmirror.com/astrojs-compiler-sync"},"options":{"compress":true},"status":301}}

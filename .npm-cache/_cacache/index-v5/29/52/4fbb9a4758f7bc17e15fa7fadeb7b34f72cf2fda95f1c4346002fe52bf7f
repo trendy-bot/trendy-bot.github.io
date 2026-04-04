@@ -1,0 +1,2 @@
+
+9ed2d7681ed32c73fdd9b7183c1841502ca45932	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@astrojs%2fvercel","integrity":null,"time":1775309024978,"size":"262","metadata":{"time":1775309024977,"url":"https://registry.npm.taobao.org/@astrojs%2fvercel","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:45 GMT","location":"https://registry.npmmirror.com/@astrojs%2fvercel"},"options":{"compress":true},"status":301}}

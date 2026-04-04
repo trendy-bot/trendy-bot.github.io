@@ -1,0 +1,2 @@
+
+5f15025583fd1102ef8fa61135451a2604ac5bb6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/retext-latin","integrity":null,"time":1775309066041,"size":"262","metadata":{"time":1775309066041,"url":"https://registry.npm.taobao.org/retext-latin","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:26 GMT","location":"https://registry.npmmirror.com/retext-latin"},"options":{"compress":true},"status":301}}

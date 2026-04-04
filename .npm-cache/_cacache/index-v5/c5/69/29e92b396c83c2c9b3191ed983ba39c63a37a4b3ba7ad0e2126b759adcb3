@@ -1,0 +1,2 @@
+
+f1c90868727308d55bba328a3af69afc04bfed7f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/yaml-language-server","integrity":null,"time":1775309033552,"size":"262","metadata":{"time":1775309033552,"url":"https://registry.npm.taobao.org/yaml-language-server","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:54 GMT","location":"https://registry.npmmirror.com/yaml-language-server"},"options":{"compress":true},"status":301}}

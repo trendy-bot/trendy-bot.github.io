@@ -1,0 +1,2 @@
+
+be7221a06e0bc340561dcc5632cd684c1b47e01b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/perfect-debounce","integrity":null,"time":1775309078083,"size":"262","metadata":{"time":1775309078083,"url":"https://registry.npm.taobao.org/perfect-debounce","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:38 GMT","location":"https://registry.npmmirror.com/perfect-debounce"},"options":{"compress":true},"status":301}}

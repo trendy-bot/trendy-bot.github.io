@@ -1,0 +1,2 @@
+
+0a28b2f24b86d30064f7e86241b4a4310e01c834	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/magic-regexp","integrity":null,"time":1775309079581,"size":"262","metadata":{"time":1775309079581,"url":"https://registry.npm.taobao.org/magic-regexp","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:40 GMT","location":"https://registry.npmmirror.com/magic-regexp"},"options":{"compress":true},"status":301}}

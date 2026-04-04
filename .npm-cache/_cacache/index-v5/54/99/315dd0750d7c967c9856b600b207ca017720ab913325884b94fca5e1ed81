@@ -1,0 +1,2 @@
+
+8b152b03d0f78d1578a18c6282c0f83bffec47bc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/expo-sqlite","integrity":null,"time":1775309056200,"size":"262","metadata":{"time":1775309056200,"url":"https://registry.npm.taobao.org/expo-sqlite","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:17 GMT","location":"https://registry.npmmirror.com/expo-sqlite"},"options":{"compress":true},"status":301}}

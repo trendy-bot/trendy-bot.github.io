@@ -1,0 +1,2 @@
+
+999bbe22fb158a1916ead9113ccf6377d1332af0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/queue-microtask","integrity":null,"time":1775309062876,"size":"262","metadata":{"time":1775309062876,"url":"https://registry.npm.taobao.org/queue-microtask","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:23 GMT","location":"https://registry.npmmirror.com/queue-microtask"},"options":{"compress":true},"status":301}}

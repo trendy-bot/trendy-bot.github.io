@@ -1,0 +1,2 @@
+
+085f81772491966e58063bad0e074c29040126ff	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/micromatch","integrity":null,"time":1775309062421,"size":"262","metadata":{"time":1775309062421,"url":"https://registry.npm.taobao.org/micromatch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:23 GMT","location":"https://registry.npmmirror.com/micromatch"},"options":{"compress":true},"status":301}}

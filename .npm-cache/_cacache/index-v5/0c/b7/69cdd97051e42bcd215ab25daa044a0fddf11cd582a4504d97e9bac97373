@@ -1,0 +1,2 @@
+
+74e740af2da6d60fa0dbe0472cd9e9d8b31412fc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/abbrev","integrity":null,"time":1775309044027,"size":"262","metadata":{"time":1775309044027,"url":"https://registry.npm.taobao.org/abbrev","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:04 GMT","location":"https://registry.npmmirror.com/abbrev"},"options":{"compress":true},"status":301}}

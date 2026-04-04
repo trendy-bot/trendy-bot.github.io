@@ -1,0 +1,2 @@
+
+954d0f150956424f00bc74b7f5e21036291ccfc6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/character-reference-invalid","integrity":null,"time":1775309076682,"size":"262","metadata":{"time":1775309076682,"url":"https://registry.npm.taobao.org/character-reference-invalid","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:37 GMT","location":"https://registry.npmmirror.com/character-reference-invalid"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+a981e4d3326a09ad271e12db9b9322f23094f394	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/shiki","integrity":null,"time":1775309029369,"size":"262","metadata":{"time":1775309029369,"url":"https://registry.npm.taobao.org/shiki","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/shiki"},"options":{"compress":true},"status":301}}

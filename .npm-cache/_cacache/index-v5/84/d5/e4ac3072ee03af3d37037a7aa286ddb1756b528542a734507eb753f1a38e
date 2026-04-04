@@ -1,0 +1,2 @@
+
+96f3307f1ded14d0e41c0e1dc09f51b1e4977dc4	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/p-queue","integrity":null,"time":1775309029305,"size":"262","metadata":{"time":1775309029305,"url":"https://registry.npm.taobao.org/p-queue","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/p-queue"},"options":{"compress":true},"status":301}}

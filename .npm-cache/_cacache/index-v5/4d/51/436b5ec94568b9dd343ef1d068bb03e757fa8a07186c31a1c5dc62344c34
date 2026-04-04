@@ -1,0 +1,2 @@
+
+001a814aac697d57d0253cfacd819fd7fba41d4a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/p-locate","integrity":null,"time":1775309063076,"size":"262","metadata":{"time":1775309063075,"url":"https://registry.npm.taobao.org/p-locate","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:23 GMT","location":"https://registry.npmmirror.com/p-locate"},"options":{"compress":true},"status":301}}

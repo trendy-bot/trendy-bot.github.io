@@ -1,0 +1,2 @@
+
+39ee1f3d27537f9c42ba0fe3a8c3c773791cd400	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/github-slugger","integrity":null,"time":1775309029144,"size":"262","metadata":{"time":1775309029143,"url":"https://registry.npm.taobao.org/github-slugger","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/github-slugger"},"options":{"compress":true},"status":301}}

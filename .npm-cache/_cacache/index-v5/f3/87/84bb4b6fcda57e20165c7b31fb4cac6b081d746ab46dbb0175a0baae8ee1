@@ -1,0 +1,2 @@
+
+a205fe2686672b09c35272f16284755dff252a42	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@emnapi%2fruntime","integrity":null,"time":1775309066685,"size":"262","metadata":{"time":1775309066685,"url":"https://registry.npm.taobao.org/@emnapi%2fruntime","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:27 GMT","location":"https://registry.npmmirror.com/@emnapi%2fruntime"},"options":{"compress":true},"status":301}}

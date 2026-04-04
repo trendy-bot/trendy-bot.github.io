@@ -1,0 +1,2 @@
+
+4706d6f0a0a71ac648c79ed0b37d7a276d36cc14	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/pagefind","integrity":null,"time":1775309073509,"size":"262","metadata":{"time":1775309073509,"url":"https://registry.npm.taobao.org/pagefind","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:34 GMT","location":"https://registry.npmmirror.com/pagefind"},"options":{"compress":true},"status":301}}

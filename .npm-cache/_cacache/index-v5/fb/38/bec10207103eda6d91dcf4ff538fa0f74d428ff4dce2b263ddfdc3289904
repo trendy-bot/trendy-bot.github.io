@@ -1,0 +1,2 @@
+
+995ef91c5c2d20a72ef783696daec57bf2a9bb03	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/require-directory","integrity":null,"time":1775309032847,"size":"262","metadata":{"time":1775309032847,"url":"https://registry.npm.taobao.org/require-directory","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:53 GMT","location":"https://registry.npmmirror.com/require-directory"},"options":{"compress":true},"status":301}}

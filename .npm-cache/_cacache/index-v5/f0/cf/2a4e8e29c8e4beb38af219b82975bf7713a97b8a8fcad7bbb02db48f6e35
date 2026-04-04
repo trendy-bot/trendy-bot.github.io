@@ -1,0 +1,2 @@
+
+929200a550cf4452f52430d755d64a975ebb85f4	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/oxc-parser","integrity":null,"time":1775309078089,"size":"262","metadata":{"time":1775309078089,"url":"https://registry.npm.taobao.org/oxc-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:38 GMT","location":"https://registry.npmmirror.com/oxc-parser"},"options":{"compress":true},"status":301}}

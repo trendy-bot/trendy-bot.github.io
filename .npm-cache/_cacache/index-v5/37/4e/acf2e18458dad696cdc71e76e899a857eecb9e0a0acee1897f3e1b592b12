@@ -1,0 +1,2 @@
+
+433f2d04a18984dfb417e8e02d3eaf6b581a34bc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/tinyexec","integrity":null,"time":1775309029419,"size":"262","metadata":{"time":1775309029419,"url":"https://registry.npm.taobao.org/tinyexec","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/tinyexec"},"options":{"compress":true},"status":301}}

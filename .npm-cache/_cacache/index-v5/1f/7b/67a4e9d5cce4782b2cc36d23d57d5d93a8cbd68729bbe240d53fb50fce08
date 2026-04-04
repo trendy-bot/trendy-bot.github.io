@@ -1,0 +1,2 @@
+
+26c2fdb6ac1db6d38eead3d65bd287416652aa73	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/jackspeak","integrity":null,"time":1775309043726,"size":"262","metadata":{"time":1775309043726,"url":"https://registry.npm.taobao.org/jackspeak","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:04 GMT","location":"https://registry.npmmirror.com/jackspeak"},"options":{"compress":true},"status":301}}

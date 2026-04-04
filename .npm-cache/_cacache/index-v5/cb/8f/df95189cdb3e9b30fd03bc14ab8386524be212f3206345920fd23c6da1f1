@@ -1,0 +1,2 @@
+
+6d601c0535d6f66f11d2af255dd48b92496972df	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@playwright%2ftest","integrity":null,"time":1775309040208,"size":"262","metadata":{"time":1775309040208,"url":"https://registry.npm.taobao.org/@playwright%2ftest","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:01 GMT","location":"https://registry.npmmirror.com/@playwright%2ftest"},"options":{"compress":true},"status":301}}

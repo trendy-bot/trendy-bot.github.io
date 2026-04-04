@@ -1,0 +1,2 @@
+
+8dc71ce3e02d58f1d5474e39fdfac727464c5d1a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/micromark-factory-destination","integrity":null,"time":1775309065883,"size":"262","metadata":{"time":1775309065883,"url":"https://registry.npm.taobao.org/micromark-factory-destination","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:26 GMT","location":"https://registry.npmmirror.com/micromark-factory-destination"},"options":{"compress":true},"status":301}}

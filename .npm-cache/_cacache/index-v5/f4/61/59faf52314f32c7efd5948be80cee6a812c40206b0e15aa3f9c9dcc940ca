@@ -1,0 +1,2 @@
+
+563c2baba0095829462bcb188dc6c7682eb13c28	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/y18n","integrity":null,"time":1775309032899,"size":"262","metadata":{"time":1775309032899,"url":"https://registry.npm.taobao.org/y18n","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:53 GMT","location":"https://registry.npmmirror.com/y18n"},"options":{"compress":true},"status":301}}

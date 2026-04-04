@@ -1,0 +1,2 @@
+
+34e79e90fd7cbabbc9d4edbbed1cd04a7d6e5e6b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/fontace","integrity":null,"time":1775309029136,"size":"262","metadata":{"time":1775309029136,"url":"https://registry.npm.taobao.org/fontace","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/fontace"},"options":{"compress":true},"status":301}}

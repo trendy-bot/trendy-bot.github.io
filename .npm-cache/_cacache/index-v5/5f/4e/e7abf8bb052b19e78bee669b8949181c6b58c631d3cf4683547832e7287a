@@ -1,0 +1,2 @@
+
+18927e0b0da38cf0de51c75d773b65f53a757ea5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/domhandler","integrity":null,"time":1775309067125,"size":"262","metadata":{"time":1775309067125,"url":"https://registry.npm.taobao.org/domhandler","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:27 GMT","location":"https://registry.npmmirror.com/domhandler"},"options":{"compress":true},"status":301}}

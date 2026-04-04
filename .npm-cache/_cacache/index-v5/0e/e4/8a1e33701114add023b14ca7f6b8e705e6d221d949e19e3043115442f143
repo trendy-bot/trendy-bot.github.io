@@ -1,0 +1,2 @@
+
+b04102f49f7744f7c0490890d1178084e46c281c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/style-to-js","integrity":null,"time":1775309076263,"size":"262","metadata":{"time":1775309076262,"url":"https://registry.npm.taobao.org/style-to-js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:37 GMT","location":"https://registry.npmmirror.com/style-to-js"},"options":{"compress":true},"status":301}}

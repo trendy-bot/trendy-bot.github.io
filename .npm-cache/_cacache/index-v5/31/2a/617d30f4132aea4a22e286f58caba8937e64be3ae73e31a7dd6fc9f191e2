@@ -1,0 +1,2 @@
+
+8fc2238729f020408f1cb8d4ce906fd3f26b14ae	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/get-east-asian-width","integrity":null,"time":1775309061489,"size":"262","metadata":{"time":1775309061489,"url":"https://registry.npm.taobao.org/get-east-asian-width","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:22 GMT","location":"https://registry.npmmirror.com/get-east-asian-width"},"options":{"compress":true},"status":301}}

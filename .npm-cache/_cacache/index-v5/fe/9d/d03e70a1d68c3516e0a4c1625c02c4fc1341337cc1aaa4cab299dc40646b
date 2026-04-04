@@ -1,0 +1,2 @@
+
+8a3243e8b56df185aaf60da24f57eefe5f894db0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vscode-jsonrpc","integrity":null,"time":1775309044241,"size":"262","metadata":{"time":1775309044241,"url":"https://registry.npm.taobao.org/vscode-jsonrpc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:05 GMT","location":"https://registry.npmmirror.com/vscode-jsonrpc"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+284dca8f3fcd85a19409b1b4f614976c2a890e82	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/picocolors","integrity":null,"time":1775309041882,"size":"262","metadata":{"time":1775309041882,"url":"https://registry.npm.taobao.org/picocolors","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:02 GMT","location":"https://registry.npmmirror.com/picocolors"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+39adca81ca8cc178cdeb451181871550a9c741d1	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/neotraverse","integrity":null,"time":1775309029295,"size":"262","metadata":{"time":1775309029295,"url":"https://registry.npm.taobao.org/neotraverse","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/neotraverse"},"options":{"compress":true},"status":301}}

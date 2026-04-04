@@ -1,0 +1,2 @@
+
+63af071f7d7b9d2a1902f5dda7c138e872f506a4	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/fast-xml-parser","integrity":null,"time":1775309028705,"size":"262","metadata":{"time":1775309028705,"url":"https://registry.npm.taobao.org/fast-xml-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/fast-xml-parser"},"options":{"compress":true},"status":301}}

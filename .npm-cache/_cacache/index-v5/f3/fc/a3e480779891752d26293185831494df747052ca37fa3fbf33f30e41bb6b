@@ -1,0 +1,2 @@
+
+641d5be13c674096792a16de28245a4bb5bb71c7	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/camelcase","integrity":null,"time":1775309060386,"size":"262","metadata":{"time":1775309060386,"url":"https://registry.npm.taobao.org/camelcase","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:21 GMT","location":"https://registry.npmmirror.com/camelcase"},"options":{"compress":true},"status":301}}

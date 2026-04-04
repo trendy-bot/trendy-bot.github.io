@@ -1,0 +1,2 @@
+
+0bfe979ef11b64ba60184d0fa65e2357bb165bd8	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@azure%2fcosmos","integrity":null,"time":1775309045061,"size":"262","metadata":{"time":1775309045061,"url":"https://registry.npm.taobao.org/@azure%2fcosmos","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:05 GMT","location":"https://registry.npmmirror.com/@azure%2fcosmos"},"options":{"compress":true},"status":301}}

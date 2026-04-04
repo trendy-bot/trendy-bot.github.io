@@ -1,0 +1,2 @@
+
+4b6bc064042ae63868ddfc1eb22853598261c4c3	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/run-parallel","integrity":null,"time":1775309062803,"size":"262","metadata":{"time":1775309062803,"url":"https://registry.npm.taobao.org/run-parallel","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:23 GMT","location":"https://registry.npmmirror.com/run-parallel"},"options":{"compress":true},"status":301}}

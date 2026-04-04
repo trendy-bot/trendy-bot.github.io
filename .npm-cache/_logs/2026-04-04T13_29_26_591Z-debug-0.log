@@ -1,0 +1,1418 @@
+0 verbose cli D:\Program Files\nodejs\node.exe D:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.17.0
+3 silly config load:file:D:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:D:\BLOG\astro-theme-pure\.npmrc
+5 silly config load:file:C:\Users\31351\.npmrc
+6 silly config load:file:D:\Program Files\nodejs\node_cache\etc\npmrc
+7 verbose title npm install @unocss/astro unocss @unocss/preset-typography
+8 verbose argv "install" "@unocss/astro" "unocss" "@unocss/preset-typography" "--cache" ".npm-cache"
+9 verbose logfile logs-max:10 dir:D:\BLOG\astro-theme-pure\.npm-cache\_logs\2026-04-04T13_29_26_591Z-
+10 verbose logfile D:\BLOG\astro-theme-pure\.npm-cache\_logs\2026-04-04T13_29_26_591Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly idealTree buildDeps
+14 silly fetch manifest @unocss/astro@*
+15 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fastro cache-miss
+16 http cache https://registry.npmmirror.com/@unocss%2fastro 1677ms (cache hit)
+17 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fastro set size:568384 disposed:false
+18 silly fetch manifest vite@^2.9.0 || ^3.0.0-0 || ^4.0.0 || ^5.0.0-0 || ^6.0.0-0 || ^7.0.0-0 || ^8.0.0-0
+19 silly packumentCache full:https://registry.npm.taobao.org/vite cache-miss
+20 http fetch GET 200 https://registry.npmmirror.com/vite 2236ms (cache revalidated)
+21 silly packumentCache full:https://registry.npm.taobao.org/vite set size:38589240 disposed:false
+22 silly fetch manifest @types/node@^20.19.0 || >=22.12.0
+23 silly packumentCache full:https://registry.npm.taobao.org/@types%2fnode cache-miss
+24 http fetch GET 200 https://registry.npmmirror.com/@types%2fnode 588ms (cache revalidated)
+25 silly packumentCache full:https://registry.npm.taobao.org/@types%2fnode set size:10208946 disposed:false
+26 silly fetch manifest @vitejs/devtools@^0.1.0
+27 silly packumentCache full:https://registry.npm.taobao.org/@vitejs%2fdevtools cache-miss
+28 http fetch GET 200 https://registry.npmmirror.com/@vitejs%2fdevtools 1088ms (cache revalidated)
+29 silly packumentCache full:https://registry.npm.taobao.org/@vitejs%2fdevtools set size:172181 disposed:false
+30 silly fetch manifest esbuild@^0.27.0
+31 silly packumentCache full:https://registry.npm.taobao.org/esbuild cache-miss
+32 http fetch GET 200 https://registry.npmmirror.com/esbuild 1192ms (cache revalidated)
+33 silly packumentCache full:https://registry.npm.taobao.org/esbuild set size:1005108 disposed:false
+34 silly fetch manifest jiti@>=1.21.0
+35 silly packumentCache full:https://registry.npm.taobao.org/jiti cache-miss
+36 http fetch GET 200 https://registry.npmmirror.com/jiti 569ms (cache revalidated)
+37 silly packumentCache full:https://registry.npm.taobao.org/jiti set size:343421 disposed:false
+38 silly fetch manifest less@^4.0.0
+39 silly packumentCache full:https://registry.npm.taobao.org/less cache-miss
+40 http fetch GET 200 https://registry.npmmirror.com/less 1043ms (cache revalidated)
+41 silly packumentCache full:https://registry.npm.taobao.org/less set size:430227 disposed:false
+42 silly fetch manifest sass@^1.70.0
+43 silly packumentCache full:https://registry.npm.taobao.org/sass cache-miss
+44 http fetch GET 200 https://registry.npmmirror.com/sass 564ms (cache revalidated)
+45 silly packumentCache full:https://registry.npm.taobao.org/sass set size:600925 disposed:false
+46 silly fetch manifest sass-embedded@^1.70.0
+47 silly packumentCache full:https://registry.npm.taobao.org/sass-embedded cache-miss
+48 http fetch GET 200 https://registry.npmmirror.com/sass-embedded 1148ms (cache revalidated)
+49 silly packumentCache full:https://registry.npm.taobao.org/sass-embedded set size:426854 disposed:false
+50 silly fetch manifest stylus@>=0.54.8
+51 silly packumentCache full:https://registry.npm.taobao.org/stylus cache-miss
+52 http fetch GET 200 https://registry.npmmirror.com/stylus 597ms (cache revalidated)
+53 silly packumentCache full:https://registry.npm.taobao.org/stylus set size:312391 disposed:false
+54 silly fetch manifest sugarss@^5.0.0
+55 silly packumentCache full:https://registry.npm.taobao.org/sugarss cache-miss
+56 http fetch GET 200 https://registry.npmmirror.com/sugarss 599ms (cache revalidated)
+57 silly packumentCache full:https://registry.npm.taobao.org/sugarss set size:38248 disposed:false
+58 silly fetch manifest postcss@^8.3.3
+59 silly packumentCache full:https://registry.npm.taobao.org/postcss cache-miss
+60 http fetch GET 200 https://registry.npmmirror.com/postcss 204ms (cache revalidated)
+61 silly packumentCache full:https://registry.npm.taobao.org/postcss set size:618007 disposed:false
+62 silly fetch manifest terser@^5.16.0
+63 silly packumentCache full:https://registry.npm.taobao.org/terser cache-miss
+64 http fetch GET 200 https://registry.npmmirror.com/terser 295ms (cache revalidated)
+65 silly packumentCache full:https://registry.npm.taobao.org/terser set size:690209 disposed:false
+66 silly fetch manifest tsx@^4.8.1
+67 silly packumentCache full:https://registry.npm.taobao.org/tsx cache-miss
+68 http fetch GET 200 https://registry.npmmirror.com/tsx 590ms (cache revalidated)
+69 silly packumentCache full:https://registry.npm.taobao.org/tsx set size:303047 disposed:false
+70 silly fetch manifest yaml@^2.4.2
+71 silly packumentCache full:https://registry.npm.taobao.org/yaml cache-miss
+72 http fetch GET 200 https://registry.npmmirror.com/yaml 856ms (cache revalidated)
+73 silly packumentCache full:https://registry.npm.taobao.org/yaml set size:333099 disposed:false
+74 silly fetch manifest unocss@*
+75 silly packumentCache full:https://registry.npm.taobao.org/unocss cache-miss
+76 http fetch GET 200 https://registry.npmmirror.com/unocss 909ms (cache revalidated)
+77 silly packumentCache full:https://registry.npm.taobao.org/unocss set size:1799232 disposed:false
+78 silly fetch manifest @unocss/postcss@66.6.7
+79 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fpostcss cache-miss
+80 http fetch GET 200 https://registry.npmmirror.com/@unocss%2fpostcss 1112ms (cache revalidated)
+81 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fpostcss set size:446153 disposed:false
+82 silly fetch manifest @unocss/webpack@66.6.7
+83 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fwebpack cache-miss
+84 http fetch GET 200 https://registry.npmmirror.com/@unocss%2fwebpack 519ms (cache revalidated)
+85 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fwebpack set size:1191720 disposed:false
+86 silly fetch manifest webpack@^4 || ^5
+87 silly packumentCache full:https://registry.npm.taobao.org/webpack cache-miss
+88 http fetch GET 200 https://registry.npmmirror.com/webpack 822ms (cache revalidated)
+89 silly packumentCache full:https://registry.npm.taobao.org/webpack set size:4678605 disposed:false
+90 silly fetch manifest @unocss/preset-typography@*
+91 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fpreset-typography cache-miss
+92 http fetch GET 200 https://registry.npmmirror.com/@unocss%2fpreset-typography 960ms (cache revalidated)
+93 silly packumentCache full:https://registry.npm.taobao.org/@unocss%2fpreset-typography set size:869444 disposed:false
+94 silly placeDep ROOT @unocss/astro@66.6.7 OK for: astro-theme-pure@4.1.3 want: *
+95 silly placeDep ROOT @unocss/preset-typography@66.6.7 REPLACE for: astro-theme-pure@4.1.3 want: *
+96 silly placeDep ROOT unocss@66.6.7 REPLACE for: astro-theme-pure@4.1.3 want: *
+97 silly reify moves {}
+98 silly audit bulk request {
+98 silly audit   '@antfu/install-pkg': [ '1.1.0' ],
+98 silly audit   '@astrojs/check': [ '0.9.8' ],
+98 silly audit   '@astrojs/compiler': [ '2.13.1' ],
+98 silly audit   '@astrojs/internal-helpers': [ '0.7.6' ],
+98 silly audit   '@astrojs/language-server': [ '2.16.6' ],
+98 silly audit   '@astrojs/markdown-remark': [ '6.3.11' ],
+98 silly audit   '@astrojs/mdx': [ '4.3.14' ],
+98 silly audit   '@astrojs/prism': [ '3.3.0' ],
+98 silly audit   '@astrojs/rss': [ '4.0.18' ],
+98 silly audit   '@astrojs/sitemap': [ '3.7.2' ],
+98 silly audit   '@astrojs/telemetry': [ '3.3.0' ],
+98 silly audit   '@astrojs/vercel': [ '9.0.5' ],
+98 silly audit   '@astrojs/yaml2ts': [ '0.2.3' ],
+98 silly audit   '@babel/code-frame': [ '7.29.0' ],
+98 silly audit   '@babel/generator': [ '7.29.1' ],
+98 silly audit   '@babel/helper-globals': [ '7.28.0' ],
+98 silly audit   '@babel/helper-string-parser': [ '7.27.1' ],
+98 silly audit   '@babel/helper-validator-identifier': [ '7.28.5' ],
+98 silly audit   '@babel/parser': [ '7.29.2' ],
+98 silly audit   '@babel/template': [ '7.28.6' ],
+98 silly audit   '@babel/traverse': [ '7.29.0' ],
+98 silly audit   '@babel/types': [ '7.29.0' ],
+98 silly audit   '@capsizecss/unpack': [ '4.0.0' ],
+98 silly audit   '@emmetio/abbreviation': [ '2.3.3' ],
+98 silly audit   '@emmetio/css-abbreviation': [ '2.1.8' ],
+98 silly audit   '@emmetio/css-parser': [ '0.4.1' ],
+98 silly audit   '@emmetio/html-matcher': [ '1.3.0' ],
+98 silly audit   '@emmetio/scanner': [ '1.0.4' ],
+98 silly audit   '@emmetio/stream-reader': [ '2.2.0' ],
+98 silly audit   '@emmetio/stream-reader-utils': [ '0.1.0' ],
+98 silly audit   '@emnapi/core': [ '1.9.2' ],
+98 silly audit   '@emnapi/runtime': [ '1.9.2' ],
+98 silly audit   '@emnapi/wasi-threads': [ '1.2.1' ],
+98 silly audit   '@esbuild/aix-ppc64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/android-arm': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/android-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/android-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/darwin-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/darwin-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/freebsd-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/freebsd-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-arm': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-ia32': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-loong64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-mips64el': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-ppc64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-riscv64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-s390x': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/linux-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/netbsd-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/netbsd-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/openbsd-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/openbsd-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/openharmony-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/sunos-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/win32-arm64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/win32-ia32': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@esbuild/win32-x64': [ '0.25.12', '0.27.7' ],
+98 silly audit   '@eslint-community/eslint-utils': [ '4.9.1' ],
+98 silly audit   'eslint-visitor-keys': [ '3.4.3', '4.2.1', '5.0.1' ],
+98 silly audit   '@eslint-community/regexpp': [ '4.12.2' ],
+98 silly audit   '@eslint/config-array': [ '0.21.2' ],
+98 silly audit   'balanced-match': [ '1.0.2', '4.0.4' ],
+98 silly audit   'brace-expansion': [ '1.1.13', '5.0.5', '2.0.3' ],
+98 silly audit   minimatch: [ '3.1.5', '9.0.9', '10.2.5' ],
+98 silly audit   '@eslint/config-helpers': [ '0.4.2' ],
+98 silly audit   '@eslint/core': [ '0.17.0' ],
+98 silly audit   '@eslint/eslintrc': [ '3.3.5' ],
+98 silly audit   '@eslint/js': [ '9.39.4' ],
+98 silly audit   '@eslint/object-schema': [ '2.1.7' ],
+98 silly audit   '@eslint/plugin-kit': [ '0.4.1' ],
+98 silly audit   '@humanfs/core': [ '0.19.1' ],
+98 silly audit   '@humanfs/node': [ '0.16.7' ],
+98 silly audit   '@humanwhocodes/module-importer': [ '1.0.1' ],
+98 silly audit   '@humanwhocodes/retry': [ '0.4.3' ],
+98 silly audit   '@ianvs/prettier-plugin-sort-imports': [ '4.7.1' ],
+98 silly audit   '@iconify/types': [ '2.0.0' ],
+98 silly audit   '@iconify/utils': [ '3.1.0' ],
+98 silly audit   '@img/colour': [ '1.1.0' ],
+98 silly audit   '@img/sharp-darwin-arm64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-darwin-x64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-libvips-darwin-arm64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-darwin-x64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linux-arm': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linux-arm64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linux-ppc64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linux-riscv64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linux-s390x': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linux-x64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linuxmusl-arm64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-libvips-linuxmusl-x64': [ '1.2.4' ],
+98 silly audit   '@img/sharp-linux-arm': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linux-arm64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linux-ppc64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linux-riscv64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linux-s390x': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linux-x64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linuxmusl-arm64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-linuxmusl-x64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-wasm32': [ '0.34.5' ],
+98 silly audit   '@img/sharp-win32-arm64': [ '0.34.5' ],
+98 silly audit   '@img/sharp-win32-ia32': [ '0.34.5' ],
+98 silly audit   '@img/sharp-win32-x64': [ '0.34.5' ],
+98 silly audit   '@isaacs/cliui': [ '8.0.2' ],
+98 silly audit   'emoji-regex': [ '9.2.2', '8.0.0', '10.6.0' ],
+98 silly audit   'string-width': [ '5.1.2', '4.2.3', '7.2.0' ],
+98 silly audit   'wrap-ansi': [ '8.1.0', '7.0.0', '9.0.2' ],
+98 silly audit   '@isaacs/fs-minipass': [ '4.0.1' ],
+98 silly audit   '@jridgewell/gen-mapping': [ '0.3.13' ],
+98 silly audit   '@jridgewell/remapping': [ '2.3.5' ],
+98 silly audit   '@jridgewell/resolve-uri': [ '3.1.2' ],
+98 silly audit   '@jridgewell/sourcemap-codec': [ '1.5.5' ],
+98 silly audit   '@jridgewell/trace-mapping': [ '0.3.31' ],
+98 silly audit   '@mapbox/node-pre-gyp': [ '2.0.3' ],
+98 silly audit   '@mdx-js/mdx': [ '3.1.1' ],
+98 silly audit   'estree-walker': [ '3.0.3', '2.0.2' ],
+98 silly audit   '@napi-rs/wasm-runtime': [ '1.1.2' ],
+98 silly audit   '@nodelib/fs.scandir': [ '2.1.5' ],
+98 silly audit   '@nodelib/fs.stat': [ '2.0.5' ],
+98 silly audit   '@nodelib/fs.walk': [ '1.2.8' ],
+98 silly audit   '@oslojs/encoding': [ '1.1.0' ],
+98 silly audit   '@oxc-parser/binding-android-arm-eabi': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-android-arm64': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-darwin-arm64': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-darwin-x64': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-freebsd-x64': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-arm-gnueabihf': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-arm-musleabihf': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-arm64-gnu': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-arm64-musl': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-ppc64-gnu': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-riscv64-gnu': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-riscv64-musl': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-s390x-gnu': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-x64-gnu': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-linux-x64-musl': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-openharmony-arm64': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-wasm32-wasi': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-win32-arm64-msvc': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-win32-ia32-msvc': [ '0.115.0' ],
+98 silly audit   '@oxc-parser/binding-win32-x64-msvc': [ '0.115.0' ],
+98 silly audit   '@oxc-project/types': [ '0.115.0' ],
+98 silly audit   '@pagefind/darwin-arm64': [ '1.4.0' ],
+98 silly audit   '@pagefind/darwin-x64': [ '1.4.0' ],
+98 silly audit   '@pagefind/default-ui': [ '1.4.0' ],
+98 silly audit   '@pagefind/freebsd-x64': [ '1.4.0' ],
+98 silly audit   '@pagefind/linux-arm64': [ '1.4.0' ],
+98 silly audit   '@pagefind/linux-x64': [ '1.4.0' ],
+98 silly audit   '@pagefind/windows-x64': [ '1.4.0' ],
+98 silly audit   '@pkgjs/parseargs': [ '0.11.0' ],
+98 silly audit   '@pkgr/core': [ '0.2.9' ],
+98 silly audit   '@polka/url': [ '1.0.0-next.29' ],
+98 silly audit   '@quansync/fs': [ '1.0.0' ],
+98 silly audit   '@rollup/pluginutils': [ '5.3.0' ],
+98 silly audit   '@rollup/rollup-android-arm-eabi': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-android-arm64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-darwin-arm64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-darwin-x64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-freebsd-arm64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-freebsd-x64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-arm-gnueabihf': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-arm-musleabihf': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-arm64-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-arm64-musl': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-loong64-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-loong64-musl': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-ppc64-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-ppc64-musl': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-riscv64-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-riscv64-musl': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-s390x-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-x64-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-linux-x64-musl': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-openbsd-x64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-openharmony-arm64': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-win32-arm64-msvc': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-win32-ia32-msvc': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-win32-x64-gnu': [ '4.60.1' ],
+98 silly audit   '@rollup/rollup-win32-x64-msvc': [ '4.60.1' ],
+98 silly audit   '@shikijs/core': [ '3.23.0' ],
+98 silly audit   '@shikijs/engine-javascript': [ '3.23.0' ],
+98 silly audit   '@shikijs/engine-oniguruma': [ '3.23.0' ],
+98 silly audit   '@shikijs/langs': [ '3.23.0' ],
+98 silly audit   '@shikijs/themes': [ '3.23.0' ],
+98 silly audit   '@shikijs/types': [ '3.23.0' ],
+98 silly audit   '@shikijs/vscode-textmate': [ '10.0.2' ],
+98 silly audit   '@tybys/wasm-util': [ '0.10.1' ],
+98 silly audit   '@types/debug': [ '4.1.13' ],
+98 silly audit   '@types/estree': [ '1.0.8' ],
+98 silly audit   '@types/estree-jsx': [ '1.0.5' ],
+98 silly audit   '@types/hast': [ '3.0.4' ],
+98 silly audit   '@types/json-schema': [ '7.0.15' ],
+98 silly audit   '@types/katex': [ '0.16.8' ],
+98 silly audit   '@types/mdast': [ '4.0.4' ],
+98 silly audit   '@types/mdx': [ '2.0.13' ],
+98 silly audit   '@types/ms': [ '2.1.0' ],
+98 silly audit   '@types/nlcst': [ '2.0.3' ],
+98 silly audit   '@types/node': [ '24.12.2' ],
+98 silly audit   '@types/sax': [ '1.2.7' ],
+98 silly audit   '@types/unist': [ '3.0.3', '2.0.11' ],
+98 silly audit   '@types/web-bluetooth': [ '0.0.21' ],
+98 silly audit   '@typescript-eslint/parser': [ '8.58.0' ],
+98 silly audit   '@typescript-eslint/project-service': [ '8.58.0' ],
+98 silly audit   '@typescript-eslint/scope-manager': [ '8.58.0' ],
+98 silly audit   '@typescript-eslint/tsconfig-utils': [ '8.58.0' ],
+98 silly audit   '@typescript-eslint/types': [ '8.58.0' ],
+98 silly audit   '@typescript-eslint/typescript-estree': [ '8.58.0' ],
+98 silly audit   '@typescript-eslint/visitor-keys': [ '8.58.0' ],
+98 silly audit   '@ungap/structured-clone': [ '1.3.0' ],
+98 silly audit   '@unocss/cli': [ '66.6.7' ],
+98 silly audit   chokidar: [ '5.0.0', '4.0.3' ],
+98 silly audit   readdirp: [ '5.0.0', '4.1.2' ],
+98 silly audit   '@unocss/config': [ '66.6.7' ],
+98 silly audit   '@unocss/core': [ '66.6.7' ],
+98 silly audit   '@unocss/extractor-arbitrary-variants': [ '66.6.7' ],
+98 silly audit   '@unocss/inspector': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-attributify': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-icons': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-mini': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-tagify': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-uno': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-web-fonts': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-wind': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-wind3': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-wind4': [ '66.6.7' ],
+98 silly audit   '@unocss/reset': [ '66.6.7' ],
+98 silly audit   '@unocss/rule-utils': [ '66.6.7' ],
+98 silly audit   '@unocss/transformer-attributify-jsx': [ '66.6.7' ],
+98 silly audit   '@unocss/transformer-compile-class': [ '66.6.7' ],
+98 silly audit   '@unocss/transformer-directives': [ '66.6.7' ],
+98 silly audit   '@unocss/transformer-variant-group': [ '66.6.7' ],
+98 silly audit   '@unocss/vite': [ '66.6.7' ],
+98 silly audit   '@vercel/analytics': [ '1.6.1' ],
+98 silly audit   '@vercel/functions': [ '2.2.13' ],
+98 silly audit   '@vercel/nft': [ '0.30.4' ],
+98 silly audit   '@vercel/oidc': [ '2.0.2' ],
+98 silly audit   '@vercel/routing-utils': [ '5.3.3' ],
+98 silly audit   '@volar/kit': [ '2.4.28' ],
+98 silly audit   '@volar/language-core': [ '2.4.28' ],
+98 silly audit   '@volar/language-server': [ '2.4.28' ],
+98 silly audit   '@volar/language-service': [ '2.4.28' ],
+98 silly audit   '@volar/source-map': [ '2.4.28' ],
+98 silly audit   '@volar/typescript': [ '2.4.28' ],
+98 silly audit   '@vscode/emmet-helper': [ '2.11.0' ],
+98 silly audit   '@vscode/l10n': [ '0.0.18' ],
+98 silly audit   '@vue/compiler-core': [ '3.5.32' ],
+98 silly audit   '@vue/compiler-dom': [ '3.5.32' ],
+98 silly audit   '@vue/compiler-sfc': [ '3.5.32' ],
+98 silly audit   '@vue/compiler-ssr': [ '3.5.32' ],
+98 silly audit   '@vue/reactivity': [ '3.5.32' ],
+98 silly audit   '@vue/runtime-core': [ '3.5.32' ],
+98 silly audit   '@vue/runtime-dom': [ '3.5.32' ],
+98 silly audit   '@vue/server-renderer': [ '3.5.32' ],
+98 silly audit   '@vue/shared': [ '3.5.32' ],
+98 silly audit   '@vueuse/core': [ '14.2.1' ],
+98 silly audit   '@vueuse/metadata': [ '14.2.1' ],
+98 silly audit   '@vueuse/shared': [ '14.2.1' ],
+98 silly audit   '@waline/api': [ '1.1.0' ],
+98 silly audit   '@waline/client': [ '3.13.0' ],
+98 silly audit   abbrev: [ '3.0.1' ],
+98 silly audit   acorn: [ '8.16.0' ],
+98 silly audit   'acorn-import-attributes': [ '1.9.5' ],
+98 silly audit   'acorn-jsx': [ '5.3.2' ],
+98 silly audit   'agent-base': [ '7.1.4' ],
+98 silly audit   ajv: [ '6.14.0', '8.18.0' ],
+98 silly audit   'ansi-align': [ '3.0.1' ],
+98 silly audit   'ansi-regex': [ '5.0.1', '6.2.2' ],
+98 silly audit   'strip-ansi': [ '6.0.1', '7.2.0' ],
+98 silly audit   'ansi-styles': [ '6.2.3', '4.3.0' ],
+98 silly audit   anymatch: [ '3.1.3' ],
+98 silly audit   picomatch: [ '2.3.2', '4.0.4' ],
+98 silly audit   arg: [ '5.0.2' ],
+98 silly audit   argparse: [ '2.0.1' ],
+98 silly audit   'aria-query': [ '5.3.2' ],
+98 silly audit   'array-iterate': [ '2.0.1' ],
+98 silly audit   astring: [ '1.9.0' ],
+98 silly audit   astro: [ '5.18.1' ],
+98 silly audit   'astro-eslint-parser': [ '1.4.0' ],
+98 silly audit   esbuild: [ '0.27.7', '0.25.12' ],
+98 silly audit   zod: [ '3.25.76', '4.3.6' ],
+98 silly audit   'zod-to-ts': [ '1.2.0' ],
+98 silly audit   'astrojs-compiler-sync': [ '1.1.1' ],
+98 silly audit   'async-sema': [ '3.1.1' ],
+98 silly audit   autosize: [ '6.0.1' ],
+98 silly audit   'axobject-query': [ '4.1.0' ],
+98 silly audit   bail: [ '2.0.2' ],
+98 silly audit   'base-64': [ '1.0.0' ],
+98 silly audit   'bcp-47-match': [ '2.0.3' ],
+98 silly audit   bindings: [ '1.5.0' ],
+98 silly audit   boolbase: [ '1.0.0' ],
+98 silly audit   boxen: [ '8.0.1' ],
+98 silly audit   braces: [ '3.0.3' ],
+98 silly audit   cac: [ '6.7.14' ],
+98 silly audit   callsites: [ '3.1.0' ],
+98 silly audit   camelcase: [ '8.0.0' ],
+98 silly audit   ccount: [ '2.0.1' ],
+98 silly audit   chalk: [ '5.6.2', '4.1.2' ],
+98 silly audit   'character-entities': [ '2.0.2' ],
+98 silly audit   'character-entities-html4': [ '2.1.0' ],
+98 silly audit   'character-entities-legacy': [ '3.0.0' ],
+98 silly audit   'character-reference-invalid': [ '2.0.1' ],
+98 silly audit   chownr: [ '3.0.0' ],
+98 silly audit   'ci-info': [ '4.4.0' ],
+98 silly audit   'cli-boxes': [ '3.0.0' ],
+98 silly audit   cliui: [ '8.0.1' ],
+98 silly audit   clsx: [ '2.1.1' ],
+98 silly audit   'collapse-white-space': [ '2.1.0' ],
+98 silly audit   'color-convert': [ '2.0.1' ],
+98 silly audit   'color-name': [ '1.1.4' ],
+98 silly audit   colorette: [ '2.0.20' ],
+98 silly audit   'comma-separated-tokens': [ '2.0.3' ],
+98 silly audit   commander: [ '8.3.0', '11.1.0' ],
+98 silly audit   'common-ancestor-path': [ '1.0.1' ],
+98 silly audit   'concat-map': [ '0.0.1' ],
+98 silly audit   confbox: [ '0.1.8' ],
+98 silly audit   consola: [ '3.4.2' ],
+98 silly audit   cookie: [ '1.1.1' ],
+98 silly audit   'cookie-es': [ '1.2.3' ],
+98 silly audit   'cross-spawn': [ '7.0.6' ],
+98 silly audit   crossws: [ '0.3.5' ],
+98 silly audit   'css-select': [ '5.2.2' ],
+98 silly audit   'css-selector-parser': [ '3.3.0' ],
+98 silly audit   'css-tree': [ '3.2.1', '2.2.1' ],
+98 silly audit   'css-what': [ '6.2.2' ],
+98 silly audit   cssesc: [ '3.0.0' ],
+98 silly audit   csso: [ '5.0.5' ],
+98 silly audit   'mdn-data': [ '2.0.28', '2.27.1' ],
+98 silly audit   csstype: [ '3.2.3' ],
+98 silly audit   debug: [ '4.4.3' ],
+98 silly audit   'decode-named-character-reference': [ '1.3.0' ],
+98 silly audit   'deep-is': [ '0.1.4' ],
+98 silly audit   defu: [ '6.1.6' ],
+98 silly audit   dequal: [ '2.0.3' ],
+98 silly audit   destr: [ '2.0.5' ],
+98 silly audit   'detect-libc': [ '2.1.2' ],
+98 silly audit   'deterministic-object-hash': [ '2.0.2' ],
+98 silly audit   devalue: [ '5.6.4' ],
+98 silly audit   devlop: [ '1.1.0' ],
+98 silly audit   diff: [ '8.0.4' ],
+98 silly audit   direction: [ '2.0.1' ],
+98 silly audit   dlv: [ '1.1.3' ],
+98 silly audit   'dom-serializer': [ '2.0.0' ],
+98 silly audit   entities: [ '4.5.0', '7.0.1', '6.0.1' ],
+98 silly audit   domelementtype: [ '2.3.0' ],
+98 silly audit   domhandler: [ '5.0.3' ],
+98 silly audit   domutils: [ '3.2.2' ],
+98 silly audit   dset: [ '3.1.4' ],
+98 silly audit   duplexer: [ '0.1.2' ],
+98 silly audit   eastasianwidth: [ '0.2.0' ],
+98 silly audit   emmet: [ '2.4.11' ],
+98 silly audit   'es-module-lexer': [ '1.7.0' ],
+98 silly audit   'esast-util-from-estree': [ '2.0.0' ],
+98 silly audit   'esast-util-from-js': [ '2.0.1' ],
+98 silly audit   escalade: [ '3.2.0' ],
+98 silly audit   'escape-string-regexp': [ '4.0.0', '5.0.0' ],
+98 silly audit   eslint: [ '9.39.4' ],
+98 silly audit   'eslint-compat-utils': [ '0.6.5' ],
+98 silly audit   'eslint-plugin-astro': [ '1.6.0' ],
+98 silly audit   globals: [ '16.5.0', '14.0.0' ],
+98 silly audit   'eslint-scope': [ '8.4.0' ],
+98 silly audit   espree: [ '10.4.0' ],
+98 silly audit   esquery: [ '1.7.0' ],
+98 silly audit   esrecurse: [ '4.3.0' ],
+98 silly audit   estraverse: [ '5.3.0' ],
+98 silly audit   'estree-util-attach-comments': [ '3.0.0' ],
+98 silly audit   'estree-util-build-jsx': [ '3.0.1' ],
+98 silly audit   'estree-util-is-identifier-name': [ '3.0.0' ],
+98 silly audit   'estree-util-scope': [ '1.0.0' ],
+98 silly audit   'estree-util-to-js': [ '2.0.0' ],
+98 silly audit   'estree-util-visit': [ '2.0.0' ],
+98 silly audit   esutils: [ '2.0.3' ],
+98 silly audit   eventemitter3: [ '5.0.4' ],
+98 silly audit   extend: [ '3.0.2' ],
+98 silly audit   'fast-deep-equal': [ '3.1.3' ],
+98 silly audit   'fast-glob': [ '3.3.3' ],
+98 silly audit   'glob-parent': [ '5.1.2', '6.0.2' ],
+98 silly audit   'fast-json-stable-stringify': [ '2.1.0' ],
+98 silly audit   'fast-levenshtein': [ '2.0.6' ],
+98 silly audit   'fast-uri': [ '3.1.0' ],
+98 silly audit   'fast-xml-builder': [ '1.1.4' ],
+98 silly audit   'fast-xml-parser': [ '5.5.10' ],
+98 silly audit   fastq: [ '1.20.1' ],
+98 silly audit   fdir: [ '6.5.0' ],
+98 silly audit   'file-entry-cache': [ '8.0.0' ],
+98 silly audit   'file-uri-to-path': [ '1.0.0' ],
+98 silly audit   'fill-range': [ '7.1.1' ],
+98 silly audit   'find-up': [ '5.0.0' ],
+98 silly audit   'flat-cache': [ '4.0.1' ],
+98 silly audit   flatted: [ '3.4.2' ],
+98 silly audit   flattie: [ '1.1.1' ],
+98 silly audit   fontace: [ '0.4.1' ],
+98 silly audit   fontkitten: [ '1.0.3' ],
+98 silly audit   'foreground-child': [ '3.3.1' ],
+98 silly audit   fsevents: [ '2.3.3' ],
+98 silly audit   'get-caller-file': [ '2.0.5' ],
+98 silly audit   'get-east-asian-width': [ '1.5.0' ],
+98 silly audit   'github-slugger': [ '2.0.0' ],
+98 silly audit   glob: [ '10.5.0' ],
+98 silly audit   'graceful-fs': [ '4.2.11' ],
+98 silly audit   'gzip-size': [ '6.0.0' ],
+98 silly audit   h3: [ '1.15.11' ],
+98 silly audit   'has-flag': [ '4.0.0' ],
+98 silly audit   'hast-util-from-dom': [ '5.0.1' ],
+98 silly audit   'hast-util-from-html': [ '2.0.3' ],
+98 silly audit   'hast-util-from-html-isomorphic': [ '2.0.0' ],
+98 silly audit   'hast-util-from-parse5': [ '8.0.3' ],
+98 silly audit   'hast-util-has-property': [ '3.0.0' ],
+98 silly audit   'hast-util-is-element': [ '3.0.0' ],
+98 silly audit   'hast-util-parse-selector': [ '4.0.0' ],
+98 silly audit   'hast-util-raw': [ '9.1.0' ],
+98 silly audit   'hast-util-select': [ '6.0.4' ],
+98 silly audit   'hast-util-to-estree': [ '3.1.3' ],
+98 silly audit   'hast-util-to-html': [ '9.0.5' ],
+98 silly audit   'hast-util-to-jsx-runtime': [ '2.3.6' ],
+98 silly audit   'hast-util-to-parse5': [ '8.0.1' ],
+98 silly audit   'hast-util-to-string': [ '3.0.1' ],
+98 silly audit   'hast-util-to-text': [ '4.0.2' ],
+98 silly audit   'hast-util-whitespace': [ '3.0.0' ],
+98 silly audit   hastscript: [ '9.0.1' ],
+98 silly audit   he: [ '1.2.0' ],
+98 silly audit   'html-escaper': [ '3.0.3' ],
+98 silly audit   'html-void-elements': [ '3.0.0' ],
+98 silly audit   'http-cache-semantics': [ '4.2.0' ],
+98 silly audit   'https-proxy-agent': [ '7.0.6' ],
+98 silly audit   ignore: [ '5.3.2' ],
+98 silly audit   'import-fresh': [ '3.3.1' ],
+98 silly audit   'resolve-from': [ '4.0.0', '5.0.0' ],
+98 silly audit   'import-meta-resolve': [ '4.2.0' ],
+98 silly audit   imurmurhash: [ '0.1.4' ],
+98 silly audit   'inline-style-parser': [ '0.2.7' ],
+98 silly audit   'iron-webcrypto': [ '1.2.1' ],
+98 silly audit   'is-alphabetical': [ '2.0.1' ],
+98 silly audit   'is-alphanumerical': [ '2.0.1' ],
+98 silly audit   'is-decimal': [ '2.0.1' ],
+98 silly audit   'is-docker': [ '3.0.0' ],
+98 silly audit   'is-extglob': [ '2.1.1' ],
+98 silly audit   'is-fullwidth-code-point': [ '3.0.0' ],
+98 silly audit   'is-glob': [ '4.0.3' ],
+98 silly audit   'is-hexadecimal': [ '2.0.1' ],
+98 silly audit   'is-inside-container': [ '1.0.0' ],
+98 silly audit   'is-number': [ '7.0.0' ],
+98 silly audit   'is-plain-obj': [ '4.1.0' ],
+98 silly audit   'is-wsl': [ '3.1.1' ],
+98 silly audit   isexe: [ '2.0.0' ],
+98 silly audit   jackspeak: [ '3.4.3' ],
+98 silly audit   jiti: [ '2.6.1' ],
+98 silly audit   'js-tokens': [ '4.0.0' ],
+98 silly audit   'js-yaml': [ '4.1.1' ],
+98 silly audit   jsesc: [ '3.1.0' ],
+98 silly audit   'json-buffer': [ '3.0.1' ],
+98 silly audit   'json-schema-traverse': [ '0.4.1', '1.0.0' ],
+98 silly audit   'json-stable-stringify-without-jsonify': [ '1.0.1' ],
+98 silly audit   'jsonc-parser': [ '2.3.1', '3.3.1' ],
+98 silly audit   katex: [ '0.16.44' ],
+98 silly audit   keyv: [ '4.5.4' ],
+98 silly audit   kleur: [ '4.1.5', '3.0.3' ],
+98 silly audit   levn: [ '0.4.1' ],
+98 silly audit   'locate-path': [ '6.0.0' ],
+98 silly audit   'lodash.merge': [ '4.6.2' ],
+98 silly audit   'longest-streak': [ '3.1.0' ],
+98 silly audit   'lru-cache': [ '10.4.3', '11.2.7' ],
+98 silly audit   'magic-regexp': [ '0.10.0' ],
+98 silly audit   'magic-string': [ '0.30.21' ],
+98 silly audit   magicast: [ '0.5.2' ],
+98 silly audit   'markdown-extensions': [ '2.0.0' ],
+98 silly audit   'markdown-table': [ '3.0.4' ],
+98 silly audit   marked: [ '17.0.5' ],
+98 silly audit   'marked-highlight': [ '2.2.3' ],
+98 silly audit   'mdast-util-definitions': [ '6.0.0' ],
+98 silly audit   'mdast-util-find-and-replace': [ '3.0.2' ],
+98 silly audit   'mdast-util-from-markdown': [ '2.0.3' ],
+98 silly audit   'mdast-util-gfm': [ '3.1.0' ],
+98 silly audit   'mdast-util-gfm-autolink-literal': [ '2.0.1' ],
+98 silly audit   'mdast-util-gfm-footnote': [ '2.1.0' ],
+98 silly audit   'mdast-util-gfm-strikethrough': [ '2.0.0' ],
+98 silly audit   'mdast-util-gfm-table': [ '2.0.0' ],
+98 silly audit   'mdast-util-gfm-task-list-item': [ '2.0.0' ],
+98 silly audit   'mdast-util-math': [ '3.0.0' ],
+98 silly audit   'mdast-util-mdx': [ '3.0.0' ],
+98 silly audit   'mdast-util-mdx-expression': [ '2.0.1' ],
+98 silly audit   'mdast-util-mdx-jsx': [ '3.2.0' ],
+98 silly audit   'mdast-util-mdxjs-esm': [ '2.0.1' ],
+98 silly audit   'mdast-util-phrasing': [ '4.1.0' ],
+98 silly audit   'mdast-util-to-hast': [ '13.2.1' ],
+98 silly audit   'mdast-util-to-markdown': [ '2.1.2' ],
+98 silly audit   'mdast-util-to-string': [ '4.0.0' ],
+98 silly audit   merge2: [ '1.4.1' ],
+98 silly audit   micromark: [ '4.0.2' ],
+98 silly audit   'micromark-core-commonmark': [ '2.0.3' ],
+98 silly audit   'micromark-extension-gfm': [ '3.0.0' ],
+98 silly audit   'micromark-extension-gfm-autolink-literal': [ '2.1.0' ],
+98 silly audit   'micromark-extension-gfm-footnote': [ '2.1.0' ],
+98 silly audit   'micromark-extension-gfm-strikethrough': [ '2.1.0' ],
+98 silly audit   'micromark-extension-gfm-table': [ '2.1.1' ],
+98 silly audit   'micromark-extension-gfm-tagfilter': [ '2.0.0' ],
+98 silly audit   'micromark-extension-gfm-task-list-item': [ '2.1.0' ],
+98 silly audit   'micromark-extension-math': [ '3.1.0' ],
+98 silly audit   'micromark-extension-mdx-expression': [ '3.0.1' ],
+98 silly audit   'micromark-extension-mdx-jsx': [ '3.0.2' ],
+98 silly audit   'micromark-extension-mdx-md': [ '2.0.0' ],
+98 silly audit   'micromark-extension-mdxjs': [ '3.0.0' ],
+98 silly audit   'micromark-extension-mdxjs-esm': [ '3.0.0' ],
+98 silly audit   'micromark-factory-destination': [ '2.0.1' ],
+98 silly audit   'micromark-factory-label': [ '2.0.1' ],
+98 silly audit   'micromark-factory-mdx-expression': [ '2.0.3' ],
+98 silly audit   'micromark-factory-space': [ '2.0.1' ],
+98 silly audit   'micromark-factory-title': [ '2.0.1' ],
+98 silly audit   'micromark-factory-whitespace': [ '2.0.1' ],
+98 silly audit   'micromark-util-character': [ '2.1.1' ],
+98 silly audit   'micromark-util-chunked': [ '2.0.1' ],
+98 silly audit   'micromark-util-classify-character': [ '2.0.1' ],
+98 silly audit   'micromark-util-combine-extensions': [ '2.0.1' ],
+98 silly audit   'micromark-util-decode-numeric-character-reference': [ '2.0.2' ],
+98 silly audit   'micromark-util-decode-string': [ '2.0.1' ],
+98 silly audit   'micromark-util-encode': [ '2.0.1' ],
+98 silly audit   'micromark-util-events-to-acorn': [ '2.0.3' ],
+98 silly audit   'micromark-util-html-tag-name': [ '2.0.1' ],
+98 silly audit   'micromark-util-normalize-identifier': [ '2.0.1' ],
+98 silly audit   'micromark-util-resolve-all': [ '2.0.1' ],
+98 silly audit   'micromark-util-sanitize-uri': [ '2.0.1' ],
+98 silly audit   'micromark-util-subtokenize': [ '2.1.0' ],
+98 silly audit   'micromark-util-symbol': [ '2.0.1' ],
+98 silly audit   'micromark-util-types': [ '2.0.2' ],
+98 silly audit   micromatch: [ '4.0.8' ],
+98 silly audit   minipass: [ '7.1.3' ],
+98 silly audit   minizlib: [ '3.1.0' ],
+98 silly audit   mlly: [ '1.8.2' ],
+98 silly audit   mrmime: [ '2.0.1' ],
+98 silly audit   ms: [ '2.1.3' ],
+98 silly audit   'muggle-string': [ '0.4.1' ],
+98 silly audit   nanoid: [ '3.3.11' ],
+98 silly audit   'natural-compare': [ '1.4.0' ],
+98 silly audit   neotraverse: [ '0.6.18' ],
+98 silly audit   'nlcst-to-string': [ '4.0.0' ],
+98 silly audit   'node-fetch': [ '2.7.0' ],
+98 silly audit   'node-fetch-native': [ '1.6.7' ],
+98 silly audit   'node-gyp-build': [ '4.8.4' ],
+98 silly audit   'node-html-parser': [ '7.1.0' ],
+98 silly audit   'node-mock-http': [ '1.0.4' ],
+98 silly audit   nopt: [ '8.1.0' ],
+98 silly audit   'normalize-path': [ '3.0.0' ],
+98 silly audit   'nth-check': [ '2.1.1' ],
+98 silly audit   ofetch: [ '1.5.1' ],
+98 silly audit   ohash: [ '2.0.11' ],
+98 silly audit   'oniguruma-parser': [ '0.12.1' ],
+98 silly audit   'oniguruma-to-es': [ '4.3.5' ],
+98 silly audit   optionator: [ '0.9.4' ],
+98 silly audit   'oxc-parser': [ '0.115.0' ],
+98 silly audit   'oxc-walker': [ '0.7.0' ],
+98 silly audit   'p-limit': [ '6.2.0', '3.1.0' ],
+98 silly audit   'p-locate': [ '5.0.0' ],
+98 silly audit   'yocto-queue': [ '0.1.0', '1.2.2' ],
+98 silly audit   'p-queue': [ '8.1.1' ],
+98 silly audit   'p-timeout': [ '6.1.4' ],
+98 silly audit   'package-json-from-dist': [ '1.0.1' ],
+98 silly audit   'package-manager-detector': [ '1.6.0' ],
+98 silly audit   pagefind: [ '1.4.0' ],
+98 silly audit   'parent-module': [ '1.0.1' ],
+98 silly audit   'parse-entities': [ '4.0.2' ],
+98 silly audit   'parse-latin': [ '7.0.0' ],
+98 silly audit   parse5: [ '7.3.0' ],
+98 silly audit   'path-browserify': [ '1.0.1' ],
+98 silly audit   'path-exists': [ '4.0.0' ],
+98 silly audit   'path-expression-matcher': [ '1.2.1' ],
+98 silly audit   'path-key': [ '3.1.1' ],
+98 silly audit   'path-scurry': [ '1.11.1' ],
+98 silly audit   'path-to-regexp': [ '6.1.0', '6.3.0' ],
+98 silly audit   pathe: [ '2.0.3' ],
+98 silly audit   'perfect-debounce': [ '2.1.0' ],
+98 silly audit   piccolore: [ '0.1.3' ],
+98 silly audit   picocolors: [ '1.1.1' ],
+98 silly audit   'pkg-types': [ '1.3.1' ],
+98 silly audit   postcss: [ '8.5.8' ],
+98 silly audit   'postcss-selector-parser': [ '7.1.1' ],
+98 silly audit   'prelude-ls': [ '1.2.1' ],
+98 silly audit   prettier: [ '3.8.1' ],
+98 silly audit   'prettier-plugin-astro': [ '0.14.1' ],
+98 silly audit   prismjs: [ '1.30.0' ],
+98 silly audit   prompts: [ '2.4.2' ],
+98 silly audit   'property-information': [ '7.1.0' ],
+98 silly audit   punycode: [ '2.3.1' ],
+98 silly audit   quansync: [ '1.0.0' ],
+98 silly audit   'queue-microtask': [ '1.2.3' ],
+98 silly audit   radix3: [ '1.1.2' ],
+98 silly audit   'recaptcha-v3': [ '1.11.3' ],
+98 silly audit   'recma-build-jsx': [ '1.0.0' ],
+98 silly audit   'recma-jsx': [ '1.0.1' ],
+98 silly audit   'recma-parse': [ '1.0.0' ],
+98 silly audit   'recma-stringify': [ '1.0.0' ],
+98 silly audit   regex: [ '6.1.0' ],
+98 silly audit   'regex-recursion': [ '6.0.2' ],
+98 silly audit   'regex-utilities': [ '2.3.0' ],
+98 silly audit   'regexp-tree': [ '0.1.27' ],
+98 silly audit   rehype: [ '13.0.2' ],
+98 silly audit   'rehype-katex': [ '7.0.1' ],
+98 silly audit   'rehype-parse': [ '9.0.1' ],
+98 silly audit   'rehype-raw': [ '7.0.0' ],
+98 silly audit   'rehype-recma': [ '1.0.0' ],
+98 silly audit   'rehype-stringify': [ '10.0.1' ],
+98 silly audit   'remark-gfm': [ '4.0.1' ],
+98 silly audit   'remark-math': [ '6.0.0' ],
+98 silly audit   'remark-mdx': [ '3.1.1' ],
+98 silly audit   'remark-parse': [ '11.0.0' ],
+98 silly audit   'remark-rehype': [ '11.1.2' ],
+98 silly audit   'remark-smartypants': [ '3.0.2' ],
+98 silly audit   'remark-stringify': [ '11.0.0' ],
+98 silly audit   'request-light': [ '0.7.0', '0.5.8' ],
+98 silly audit   'require-directory': [ '2.1.1' ],
+98 silly audit   'require-from-string': [ '2.0.2' ],
+98 silly audit   retext: [ '9.0.0' ],
+98 silly audit   'retext-latin': [ '4.0.0' ],
+98 silly audit   'retext-smartypants': [ '6.2.0' ],
+98 silly audit   'retext-stringify': [ '4.0.0' ],
+98 silly audit   reusify: [ '1.1.0' ],
+98 silly audit   rollup: [ '4.60.1' ],
+98 silly audit   'run-parallel': [ '1.2.0' ],
+98 silly audit   's.color': [ '0.0.15' ],
+98 silly audit   'sass-formatter': [ '0.7.9' ],
+98 silly audit   sax: [ '1.6.0' ],
+98 silly audit   semver: [ '7.7.4' ],
+98 silly audit   sharp: [ '0.34.5' ],
+98 silly audit   'shebang-command': [ '2.0.0' ],
+98 silly audit   'shebang-regex': [ '3.0.0' ],
+98 silly audit   shiki: [ '3.23.0' ],
+98 silly audit   'signal-exit': [ '4.1.0' ],
+98 silly audit   sirv: [ '3.0.2' ],
+98 silly audit   sisteransi: [ '1.0.5' ],
+98 silly audit   sitemap: [ '9.0.1' ],
+98 silly audit   'smol-toml': [ '1.6.1' ],
+98 silly audit   'source-map': [ '0.7.6' ],
+98 silly audit   'source-map-js': [ '1.2.1' ],
+98 silly audit   'space-separated-tokens': [ '2.0.2' ],
+98 silly audit   'stream-replace-string': [ '2.0.0' ],
+98 silly audit   'stringify-entities': [ '4.0.4' ],
+98 silly audit   'strip-json-comments': [ '3.1.1' ],
+98 silly audit   strnum: [ '2.2.2' ],
+98 silly audit   'style-to-js': [ '1.1.21' ],
+98 silly audit   'style-to-object': [ '1.0.14' ],
+98 silly audit   'suf-log': [ '2.5.3' ],
+98 silly audit   'supports-color': [ '7.2.0' ],
+98 silly audit   svgo: [ '4.0.1' ],
+98 silly audit   synckit: [ '0.11.12' ],
+98 silly audit   tar: [ '7.5.13' ],
+98 silly audit   'tiny-inflate': [ '1.0.3' ],
+98 silly audit   tinyexec: [ '1.0.4' ],
+98 silly audit   tinyglobby: [ '0.2.15' ],
+98 silly audit   'to-regex-range': [ '5.0.1' ],
+98 silly audit   totalist: [ '3.0.1' ],
+98 silly audit   tr46: [ '0.0.3' ],
+98 silly audit   'trim-lines': [ '3.0.1' ],
+98 silly audit   trough: [ '2.2.0' ],
+98 silly audit   'ts-api-utils': [ '2.5.0' ],
+98 silly audit   tsconfck: [ '3.1.6' ],
+98 silly audit   tslib: [ '2.8.1' ],
+98 silly audit   'type-check': [ '0.4.0' ],
+98 silly audit   'type-fest': [ '4.41.0' ],
+98 silly audit   'type-level-regexp': [ '0.1.17' ],
+98 silly audit   'typesafe-path': [ '0.2.2' ],
+98 silly audit   typescript: [ '5.9.3' ],
+98 silly audit   'typescript-auto-import-cache': [ '0.3.6' ],
+98 silly audit   ufo: [ '1.6.3' ],
+98 silly audit   ultrahtml: [ '1.6.0' ],
+98 silly audit   unconfig: [ '7.5.0' ],
+98 silly audit   'unconfig-core': [ '7.5.0' ],
+98 silly audit   uncrypto: [ '0.1.3' ],
+98 silly audit   'undici-types': [ '7.16.0' ],
+98 silly audit   unified: [ '11.0.5' ],
+98 silly audit   unifont: [ '0.7.4' ],
+98 silly audit   'unist-util-find-after': [ '5.0.0' ],
+98 silly audit   'unist-util-is': [ '6.0.1' ],
+98 silly audit   'unist-util-modify-children': [ '4.0.0' ],
+98 silly audit   'unist-util-position': [ '5.0.0' ],
+98 silly audit   'unist-util-position-from-estree': [ '2.0.0' ],
+98 silly audit   'unist-util-remove-position': [ '5.0.0' ],
+98 silly audit   'unist-util-stringify-position': [ '4.0.0' ],
+98 silly audit   'unist-util-visit': [ '5.1.0' ],
+98 silly audit   'unist-util-visit-children': [ '3.0.0' ],
+98 silly audit   'unist-util-visit-parents': [ '6.0.2' ],
+98 silly audit   unplugin: [ '2.3.11' ],
+98 silly audit   'unplugin-utils': [ '0.3.1' ],
+98 silly audit   unstorage: [ '1.17.5' ],
+98 silly audit   'uri-js': [ '4.4.1' ],
+98 silly audit   'util-deprecate': [ '1.0.2' ],
+98 silly audit   vfile: [ '6.0.3' ],
+98 silly audit   'vfile-location': [ '5.0.3' ],
+98 silly audit   'vfile-message': [ '4.0.3' ],
+98 silly audit   vite: [ '6.4.1' ],
+98 silly audit   vitefu: [ '1.1.3' ],
+98 silly audit   'volar-service-css': [ '0.0.70' ],
+98 silly audit   'volar-service-emmet': [ '0.0.70' ],
+98 silly audit   'volar-service-html': [ '0.0.70' ],
+98 silly audit   'volar-service-prettier': [ '0.0.70' ],
+98 silly audit   'volar-service-typescript': [ '0.0.70' ],
+98 silly audit   'volar-service-typescript-twoslash-queries': [ '0.0.70' ],
+98 silly audit   'volar-service-yaml': [ '0.0.70' ],
+98 silly audit   'vscode-css-languageservice': [ '6.3.10' ],
+98 silly audit   'vscode-html-languageservice': [ '5.6.2' ],
+98 silly audit   'vscode-json-languageservice': [ '4.1.8' ],
+98 silly audit   'vscode-jsonrpc': [ '8.2.0' ],
+98 silly audit   'vscode-languageserver': [ '9.0.1' ],
+98 silly audit   'vscode-languageserver-protocol': [ '3.17.5' ],
+98 silly audit   'vscode-languageserver-textdocument': [ '1.0.12' ],
+98 silly audit   'vscode-languageserver-types': [ '3.17.5' ],
+98 silly audit   'vscode-nls': [ '5.2.0' ],
+98 silly audit   'vscode-uri': [ '3.1.0' ],
+98 silly audit   vue: [ '3.5.32' ],
+98 silly audit   'web-namespaces': [ '2.0.1' ],
+98 silly audit   'webidl-conversions': [ '3.0.1' ],
+98 silly audit   'webpack-virtual-modules': [ '0.6.2' ],
+98 silly audit   'whatwg-url': [ '5.0.0' ],
+98 silly audit   which: [ '2.0.2' ],
+98 silly audit   'which-pm-runs': [ '1.1.0' ],
+98 silly audit   'widest-line': [ '5.0.0' ],
+98 silly audit   'word-wrap': [ '1.2.5' ],
+98 silly audit   'xxhash-wasm': [ '1.1.0' ],
+98 silly audit   y18n: [ '5.0.8' ],
+98 silly audit   yallist: [ '5.0.0' ],
+98 silly audit   yaml: [ '2.8.3', '2.7.1' ],
+98 silly audit   'yaml-language-server': [ '1.20.0' ],
+98 silly audit   'ajv-draft-04': [ '1.0.0' ],
+98 silly audit   yargs: [ '17.7.2' ],
+98 silly audit   'yargs-parser': [ '21.1.1' ],
+98 silly audit   'yocto-spinner': [ '0.2.3' ],
+98 silly audit   yoctocolors: [ '2.1.2' ],
+98 silly audit   'zod-to-json-schema': [ '3.25.2' ],
+98 silly audit   zwitch: [ '2.0.4' ],
+98 silly audit   'astro-pure': [ '1.4.1' ],
+98 silly audit   '@unocss/astro': [ '66.6.7' ],
+98 silly audit   '@unocss/preset-typography': [ '66.6.7' ],
+98 silly audit   unocss: [ '66.6.7' ]
+98 silly audit }
+99 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\fsevents
+100 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\fsevents' ]
+101 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-win32-ia32-msvc
+102 silly reify mark deleted [
+102 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-win32-ia32-msvc'
+102 silly reify ]
+103 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-win32-arm64-msvc
+104 silly reify mark deleted [
+104 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-win32-arm64-msvc'
+104 silly reify ]
+105 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-openharmony-arm64
+106 silly reify mark deleted [
+106 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-openharmony-arm64'
+106 silly reify ]
+107 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-openbsd-x64
+108 silly reify mark deleted [
+108 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-openbsd-x64'
+108 silly reify ]
+109 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-x64-musl
+110 silly reify mark deleted [
+110 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-x64-musl'
+110 silly reify ]
+111 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-x64-gnu
+112 silly reify mark deleted [
+112 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-x64-gnu'
+112 silly reify ]
+113 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-s390x-gnu
+114 silly reify mark deleted [
+114 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-s390x-gnu'
+114 silly reify ]
+115 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-riscv64-musl
+116 silly reify mark deleted [
+116 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-riscv64-musl'
+116 silly reify ]
+117 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-riscv64-gnu
+118 silly reify mark deleted [
+118 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-riscv64-gnu'
+118 silly reify ]
+119 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-ppc64-musl
+120 silly reify mark deleted [
+120 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-ppc64-musl'
+120 silly reify ]
+121 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-ppc64-gnu
+122 silly reify mark deleted [
+122 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-ppc64-gnu'
+122 silly reify ]
+123 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-loong64-musl
+124 silly reify mark deleted [
+124 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-loong64-musl'
+124 silly reify ]
+125 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-loong64-gnu
+126 silly reify mark deleted [
+126 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-loong64-gnu'
+126 silly reify ]
+127 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-arm64-musl
+128 silly reify mark deleted [
+128 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-arm64-musl'
+128 silly reify ]
+129 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-arm64-gnu
+130 silly reify mark deleted [
+130 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-arm64-gnu'
+130 silly reify ]
+131 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-arm-musleabihf
+132 silly reify mark deleted [
+132 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-arm-musleabihf'
+132 silly reify ]
+133 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-linux-arm-gnueabihf
+134 silly reify mark deleted [
+134 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-linux-arm-gnueabihf'
+134 silly reify ]
+135 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-freebsd-x64
+136 silly reify mark deleted [
+136 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-freebsd-x64'
+136 silly reify ]
+137 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-freebsd-arm64
+138 silly reify mark deleted [
+138 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-freebsd-arm64'
+138 silly reify ]
+139 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-darwin-x64
+140 silly reify mark deleted [
+140 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-darwin-x64'
+140 silly reify ]
+141 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-darwin-arm64
+142 silly reify mark deleted [
+142 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-darwin-arm64'
+142 silly reify ]
+143 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-android-arm64
+144 silly reify mark deleted [
+144 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-android-arm64'
+144 silly reify ]
+145 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@rollup\rollup-android-arm-eabi
+146 silly reify mark deleted [
+146 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@rollup\\rollup-android-arm-eabi'
+146 silly reify ]
+147 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@pagefind\linux-x64
+148 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@pagefind\\linux-x64' ]
+149 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@pagefind\linux-arm64
+150 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@pagefind\\linux-arm64' ]
+151 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@pagefind\freebsd-x64
+152 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@pagefind\\freebsd-x64' ]
+153 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@pagefind\darwin-x64
+154 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@pagefind\\darwin-x64' ]
+155 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@pagefind\darwin-arm64
+156 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@pagefind\\darwin-arm64' ]
+157 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-win32-ia32-msvc
+158 silly reify mark deleted [
+158 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-win32-ia32-msvc'
+158 silly reify ]
+159 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-win32-arm64-msvc
+160 silly reify mark deleted [
+160 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-win32-arm64-msvc'
+160 silly reify ]
+161 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-wasm32-wasi
+162 silly reify mark deleted [
+162 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-wasm32-wasi'
+162 silly reify ]
+163 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@napi-rs\wasm-runtime
+164 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@napi-rs\\wasm-runtime' ]
+165 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@emnapi\core
+166 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@emnapi\\core' ]
+167 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@tybys\wasm-util
+168 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@tybys\\wasm-util' ]
+169 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@emnapi\wasi-threads
+170 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@emnapi\\wasi-threads' ]
+171 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-openharmony-arm64
+172 silly reify mark deleted [
+172 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-openharmony-arm64'
+172 silly reify ]
+173 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-x64-musl
+174 silly reify mark deleted [
+174 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-x64-musl'
+174 silly reify ]
+175 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-x64-gnu
+176 silly reify mark deleted [
+176 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-x64-gnu'
+176 silly reify ]
+177 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-s390x-gnu
+178 silly reify mark deleted [
+178 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-s390x-gnu'
+178 silly reify ]
+179 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-riscv64-musl
+180 silly reify mark deleted [
+180 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-riscv64-musl'
+180 silly reify ]
+181 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-riscv64-gnu
+182 silly reify mark deleted [
+182 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-riscv64-gnu'
+182 silly reify ]
+183 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-ppc64-gnu
+184 silly reify mark deleted [
+184 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-ppc64-gnu'
+184 silly reify ]
+185 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-arm64-musl
+186 silly reify mark deleted [
+186 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-arm64-musl'
+186 silly reify ]
+187 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-arm64-gnu
+188 silly reify mark deleted [
+188 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-arm64-gnu'
+188 silly reify ]
+189 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-arm-musleabihf
+190 silly reify mark deleted [
+190 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-arm-musleabihf'
+190 silly reify ]
+191 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-linux-arm-gnueabihf
+192 silly reify mark deleted [
+192 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-linux-arm-gnueabihf'
+192 silly reify ]
+193 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-freebsd-x64
+194 silly reify mark deleted [
+194 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-freebsd-x64'
+194 silly reify ]
+195 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-darwin-x64
+196 silly reify mark deleted [
+196 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-darwin-x64'
+196 silly reify ]
+197 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-darwin-arm64
+198 silly reify mark deleted [
+198 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-darwin-arm64'
+198 silly reify ]
+199 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-android-arm64
+200 silly reify mark deleted [
+200 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-android-arm64'
+200 silly reify ]
+201 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@oxc-parser\binding-android-arm-eabi
+202 silly reify mark deleted [
+202 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@oxc-parser\\binding-android-arm-eabi'
+202 silly reify ]
+203 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-win32-ia32
+204 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-win32-ia32' ]
+205 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-win32-arm64
+206 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-win32-arm64' ]
+207 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-wasm32
+208 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-wasm32' ]
+209 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linuxmusl-x64
+210 silly reify mark deleted [
+210 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linuxmusl-x64'
+210 silly reify ]
+211 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linuxmusl-arm64
+212 silly reify mark deleted [
+212 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linuxmusl-arm64'
+212 silly reify ]
+213 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linux-x64
+214 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linux-x64' ]
+215 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linux-s390x
+216 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linux-s390x' ]
+217 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linux-riscv64
+218 silly reify mark deleted [
+218 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linux-riscv64'
+218 silly reify ]
+219 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linux-ppc64
+220 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linux-ppc64' ]
+221 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linux-arm64
+222 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linux-arm64' ]
+223 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-linux-arm
+224 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-linux-arm' ]
+225 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linuxmusl-x64
+226 silly reify mark deleted [
+226 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linuxmusl-x64'
+226 silly reify ]
+227 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linuxmusl-arm64
+228 silly reify mark deleted [
+228 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linuxmusl-arm64'
+228 silly reify ]
+229 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linux-x64
+230 silly reify mark deleted [
+230 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linux-x64'
+230 silly reify ]
+231 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linux-s390x
+232 silly reify mark deleted [
+232 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linux-s390x'
+232 silly reify ]
+233 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linux-riscv64
+234 silly reify mark deleted [
+234 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linux-riscv64'
+234 silly reify ]
+235 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linux-ppc64
+236 silly reify mark deleted [
+236 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linux-ppc64'
+236 silly reify ]
+237 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linux-arm64
+238 silly reify mark deleted [
+238 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linux-arm64'
+238 silly reify ]
+239 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-linux-arm
+240 silly reify mark deleted [
+240 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-linux-arm'
+240 silly reify ]
+241 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-darwin-x64
+242 silly reify mark deleted [
+242 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-darwin-x64'
+242 silly reify ]
+243 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-libvips-darwin-arm64
+244 silly reify mark deleted [
+244 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-libvips-darwin-arm64'
+244 silly reify ]
+245 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-darwin-x64
+246 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-darwin-x64' ]
+247 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@img\sharp-darwin-arm64
+248 silly reify mark deleted [
+248 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@img\\sharp-darwin-arm64'
+248 silly reify ]
+249 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\win32-ia32
+250 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\win32-ia32' ]
+251 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\win32-arm64
+252 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\win32-arm64' ]
+253 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\sunos-x64
+254 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\sunos-x64' ]
+255 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\openharmony-arm64
+256 silly reify mark deleted [
+256 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\openharmony-arm64'
+256 silly reify ]
+257 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\openbsd-x64
+258 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\openbsd-x64' ]
+259 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\openbsd-arm64
+260 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\openbsd-arm64' ]
+261 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\netbsd-x64
+262 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\netbsd-x64' ]
+263 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\netbsd-arm64
+264 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\netbsd-arm64' ]
+265 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-x64
+266 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-x64' ]
+267 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-s390x
+268 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-s390x' ]
+269 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-riscv64
+270 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-riscv64' ]
+271 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-ppc64
+272 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-ppc64' ]
+273 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-mips64el
+274 silly reify mark deleted [
+274 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-mips64el'
+274 silly reify ]
+275 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-loong64
+276 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-loong64' ]
+277 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-ia32
+278 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-ia32' ]
+279 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-arm64
+280 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-arm64' ]
+281 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\linux-arm
+282 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\linux-arm' ]
+283 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\freebsd-x64
+284 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\freebsd-x64' ]
+285 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\freebsd-arm64
+286 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\freebsd-arm64' ]
+287 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\darwin-x64
+288 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\darwin-x64' ]
+289 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\darwin-arm64
+290 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\darwin-arm64' ]
+291 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\android-x64
+292 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\android-x64' ]
+293 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\android-arm64
+294 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\android-arm64' ]
+295 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\android-arm
+296 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\android-arm' ]
+297 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\@esbuild\aix-ppc64
+298 silly reify mark deleted [ 'D:\\BLOG\\astro-theme-pure\\node_modules\\@esbuild\\aix-ppc64' ]
+299 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\win32-ia32
+300 silly reify mark deleted [
+300 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\win32-ia32'
+300 silly reify ]
+301 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\win32-arm64
+302 silly reify mark deleted [
+302 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\win32-arm64'
+302 silly reify ]
+303 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\sunos-x64
+304 silly reify mark deleted [
+304 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\sunos-x64'
+304 silly reify ]
+305 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\openharmony-arm64
+306 silly reify mark deleted [
+306 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\openharmony-arm64'
+306 silly reify ]
+307 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\openbsd-x64
+308 silly reify mark deleted [
+308 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\openbsd-x64'
+308 silly reify ]
+309 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\openbsd-arm64
+310 silly reify mark deleted [
+310 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\openbsd-arm64'
+310 silly reify ]
+311 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\netbsd-x64
+312 silly reify mark deleted [
+312 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\netbsd-x64'
+312 silly reify ]
+313 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\netbsd-arm64
+314 silly reify mark deleted [
+314 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\netbsd-arm64'
+314 silly reify ]
+315 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-x64
+316 silly reify mark deleted [
+316 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-x64'
+316 silly reify ]
+317 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-s390x
+318 silly reify mark deleted [
+318 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-s390x'
+318 silly reify ]
+319 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-riscv64
+320 silly reify mark deleted [
+320 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-riscv64'
+320 silly reify ]
+321 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-ppc64
+322 silly reify mark deleted [
+322 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-ppc64'
+322 silly reify ]
+323 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-mips64el
+324 silly reify mark deleted [
+324 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-mips64el'
+324 silly reify ]
+325 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-loong64
+326 silly reify mark deleted [
+326 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-loong64'
+326 silly reify ]
+327 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-ia32
+328 silly reify mark deleted [
+328 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-ia32'
+328 silly reify ]
+329 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-arm64
+330 silly reify mark deleted [
+330 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-arm64'
+330 silly reify ]
+331 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\linux-arm
+332 silly reify mark deleted [
+332 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\linux-arm'
+332 silly reify ]
+333 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\freebsd-x64
+334 silly reify mark deleted [
+334 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\freebsd-x64'
+334 silly reify ]
+335 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\freebsd-arm64
+336 silly reify mark deleted [
+336 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\freebsd-arm64'
+336 silly reify ]
+337 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\darwin-x64
+338 silly reify mark deleted [
+338 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\darwin-x64'
+338 silly reify ]
+339 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\darwin-arm64
+340 silly reify mark deleted [
+340 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\darwin-arm64'
+340 silly reify ]
+341 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\android-x64
+342 silly reify mark deleted [
+342 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\android-x64'
+342 silly reify ]
+343 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\android-arm64
+344 silly reify mark deleted [
+344 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\android-arm64'
+344 silly reify ]
+345 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\android-arm
+346 silly reify mark deleted [
+346 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\android-arm'
+346 silly reify ]
+347 verbose reify failed optional dependency D:\BLOG\astro-theme-pure\node_modules\astro\node_modules\@esbuild\aix-ppc64
+348 silly reify mark deleted [
+348 silly reify   'D:\\BLOG\\astro-theme-pure\\node_modules\\astro\\node_modules\\@esbuild\\aix-ppc64'
+348 silly reify ]
+349 http cache @unocss/astro@https://registry.npmmirror.com/@unocss/astro/-/astro-66.6.7.tgz 0ms (cache hit)
+350 http cache @tybys/wasm-util@https://registry.npmmirror.com/@tybys/wasm-util/-/wasm-util-0.10.1.tgz 0ms (cache hit)
+351 http cache @napi-rs/wasm-runtime@https://registry.npmmirror.com/@napi-rs/wasm-runtime/-/wasm-runtime-1.1.2.tgz 0ms (cache hit)
+352 http cache @emnapi/wasi-threads@https://registry.npmmirror.com/@emnapi/wasi-threads/-/wasi-threads-1.2.1.tgz 0ms (cache hit)
+353 silly tarball no local data for @unocss/astro@https://registry.npmmirror.com/@unocss/astro/-/astro-66.6.7.tgz. Extracting by manifest.
+354 http cache @emnapi/core@https://registry.npmmirror.com/@emnapi/core/-/core-1.9.2.tgz 0ms (cache hit)
+355 http fetch POST 404 https://registry.npmmirror.com/-/npm/v1/security/advisories/bulk 922ms (cache skip)
+356 silly audit bulk request failed [object Object]
+357 http fetch POST 404 https://registry.npmmirror.com/-/npm/v1/security/audits/quick 727ms (cache skip)
+358 verbose audit error HttpErrorGeneral: 404 Not Found - POST https://registry.npmmirror.com/-/npm/v1/security/audits/quick - [NOT_IMPLEMENTED] /-/npm/v1/security/* not implemented yet
+358 verbose audit error     at D:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-fetch\lib\check-response.js:103:15
+358 verbose audit error     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+358 verbose audit error     at async [getReport] (D:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:336:21)
+358 verbose audit error     at async AuditReport.run (D:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\audit-report.js:106:19) {
+358 verbose audit error   headers: [Object: null prototype] {
+358 verbose audit error     server: [ 'Tengine' ],
+358 verbose audit error     date: [ 'Sat, 04 Apr 2026 13:29:49 GMT' ],
+358 verbose audit error     'content-type': [ 'application/json' ],
+358 verbose audit error     'transfer-encoding': [ 'chunked' ],
+358 verbose audit error     connection: [ 'keep-alive' ],
+358 verbose audit error     'strict-transport-security': [ 'max-age=5184000' ],
+358 verbose audit error     via: [ 'ens-cache18.sg25[,404666]' ],
+358 verbose audit error     'timing-allow-origin': [ '*' ],
+358 verbose audit error     eagleid: [ 'a3b5c9a617753093893645043e' ],
+358 verbose audit error     'x-fetch-attempts': [ '1' ],
+358 verbose audit error     'x-local-cache-status': [ 'skip' ]
+358 verbose audit error   },
+358 verbose audit error   statusCode: 404,
+358 verbose audit error   code: 'E404',
+358 verbose audit error   method: 'POST',
+358 verbose audit error   uri: 'https://registry.npmmirror.com/-/npm/v1/security/audits/quick',
+358 verbose audit error   body: {
+358 verbose audit error     error: '[NOT_IMPLEMENTED] /-/npm/v1/security/* not implemented yet'
+358 verbose audit error   },
+358 verbose audit error   pkgid: undefined
+358 verbose audit error }
+359 silly audit error [object Object]
+360 silly audit report null
+361 http fetch GET 200 https://cdn.npmmirror.com/packages/%40unocss/astro/66.6.7/astro-66.6.7.tgz 2989ms (cache miss)
+362 silly ADD node_modules/@unocss/astro
+363 silly ADD
+364 silly ADD
+365 silly ADD
+366 silly ADD
+367 silly ADD
+368 silly ADD
+369 silly ADD
+370 silly ADD
+371 silly ADD
+372 silly ADD
+373 silly ADD
+374 silly ADD
+375 silly ADD
+376 silly ADD
+377 silly ADD
+378 silly ADD
+379 silly ADD
+380 silly ADD
+381 silly ADD
+382 silly ADD
+383 silly ADD
+384 silly ADD
+385 silly ADD
+386 silly ADD
+387 silly ADD
+388 silly ADD
+389 silly ADD
+390 silly ADD
+391 silly ADD
+392 silly ADD
+393 silly ADD
+394 silly ADD
+395 silly ADD
+396 silly ADD
+397 silly ADD
+398 silly ADD
+399 silly ADD
+400 silly ADD
+401 silly ADD
+402 silly ADD
+403 silly ADD
+404 silly ADD
+405 silly ADD
+406 silly ADD
+407 silly ADD
+408 silly ADD
+409 silly ADD
+410 silly ADD
+411 silly ADD
+412 silly ADD
+413 silly ADD
+414 silly ADD
+415 silly ADD
+416 silly ADD
+417 silly ADD
+418 silly ADD
+419 silly ADD
+420 silly ADD
+421 silly ADD
+422 silly ADD
+423 silly ADD
+424 silly ADD
+425 silly ADD
+426 silly ADD
+427 silly ADD
+428 silly ADD
+429 silly ADD
+430 silly ADD
+431 silly ADD
+432 silly ADD
+433 silly ADD
+434 silly ADD
+435 silly ADD
+436 silly ADD
+437 silly ADD
+438 silly ADD
+439 silly ADD
+440 silly ADD
+441 silly ADD
+442 silly ADD
+443 silly ADD
+444 silly ADD
+445 silly ADD
+446 silly ADD
+447 silly ADD
+448 silly ADD
+449 silly ADD
+450 silly ADD
+451 silly ADD
+452 silly ADD
+453 silly ADD
+454 silly ADD
+455 silly ADD
+456 silly ADD
+457 silly ADD
+458 silly ADD
+459 silly ADD
+460 silly ADD
+461 silly ADD
+462 silly ADD
+463 silly ADD
+464 silly ADD
+465 silly ADD
+466 silly ADD
+467 silly ADD
+468 silly ADD
+469 silly ADD
+470 silly ADD
+471 silly ADD
+472 silly ADD
+473 silly ADD
+474 silly ADD
+475 silly ADD
+476 silly ADD
+477 silly ADD
+478 silly ADD
+479 silly ADD
+480 silly ADD
+481 silly ADD
+482 silly ADD
+483 silly ADD
+484 silly ADD
+485 silly ADD
+486 silly ADD
+487 silly ADD
+488 verbose cwd D:\BLOG\astro-theme-pure
+489 verbose os Windows_NT 10.0.22631
+490 verbose node v22.17.0
+491 verbose npm  v10.9.2
+492 verbose exit 0
+493 info ok

@@ -1,0 +1,2 @@
+
+50e2170b11679c1872b94bec20fb14d8779b6ad6	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/boxen","integrity":null,"time":1775309028943,"size":"262","metadata":{"time":1775309028943,"url":"https://registry.npm.taobao.org/boxen","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/boxen"},"options":{"compress":true},"status":301}}

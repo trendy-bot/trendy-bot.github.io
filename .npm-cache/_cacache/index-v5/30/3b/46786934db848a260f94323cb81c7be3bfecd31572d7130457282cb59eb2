@@ -1,0 +1,2 @@
+
+974493b92c4f5a928f6367644d6f9014b8edc4d1	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/html-escaper","integrity":null,"time":1775309029144,"size":"262","metadata":{"time":1775309029144,"url":"https://registry.npm.taobao.org/html-escaper","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:50 GMT","location":"https://registry.npmmirror.com/html-escaper"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+04536d675d16cfd6d5038f431b27cb7422b72ac5	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/imurmurhash","integrity":null,"time":1775309030223,"size":"262","metadata":{"time":1775309030223,"url":"https://registry.npm.taobao.org/imurmurhash","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:51 GMT","location":"https://registry.npmmirror.com/imurmurhash"},"options":{"compress":true},"status":301}}

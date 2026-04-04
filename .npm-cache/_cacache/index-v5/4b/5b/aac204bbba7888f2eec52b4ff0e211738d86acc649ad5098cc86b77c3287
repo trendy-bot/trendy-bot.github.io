@@ -1,0 +1,2 @@
+
+4b315a87331805b0548e5ed5ab02524d3492f009	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/strnum","integrity":null,"time":1775309033880,"size":"262","metadata":{"time":1775309033880,"url":"https://registry.npm.taobao.org/strnum","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:54 GMT","location":"https://registry.npmmirror.com/strnum"},"options":{"compress":true},"status":301}}

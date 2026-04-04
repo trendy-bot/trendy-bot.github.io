@@ -1,0 +1,2 @@
+
+74e89f50a83fae3ef20f7e944233503821018c33	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/srvx","integrity":null,"time":1775309059287,"size":"262","metadata":{"time":1775309059287,"url":"https://registry.npm.taobao.org/srvx","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:20 GMT","location":"https://registry.npmmirror.com/srvx"},"options":{"compress":true},"status":301}}

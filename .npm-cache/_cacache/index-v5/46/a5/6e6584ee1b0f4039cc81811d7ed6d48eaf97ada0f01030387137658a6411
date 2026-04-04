@@ -1,0 +1,2 @@
+
+2d86062a4388f42551163e399f56f1385d2f0630	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/diff","integrity":null,"time":1775309029081,"size":"262","metadata":{"time":1775309029081,"url":"https://registry.npm.taobao.org/diff","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/diff"},"options":{"compress":true},"status":301}}

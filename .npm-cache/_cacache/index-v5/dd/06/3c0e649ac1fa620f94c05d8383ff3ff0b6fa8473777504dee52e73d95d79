@@ -1,0 +1,2 @@
+
+20c5e730f09649248ef474e4945e2ffbb59000ba	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@astrojs%2fsitemap","integrity":null,"time":1775309071981,"size":"262","metadata":{"time":1775309071981,"url":"https://registry.npm.taobao.org/@astrojs%2fsitemap","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:32 GMT","location":"https://registry.npmmirror.com/@astrojs%2fsitemap"},"options":{"compress":true},"status":301}}

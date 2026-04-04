@@ -1,0 +1,2 @@
+
+bad5bbf1781d31a6c3b308d5eba599828b149dc0	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/fontkitten","integrity":null,"time":1775309060263,"size":"262","metadata":{"time":1775309060263,"url":"https://registry.npm.taobao.org/fontkitten","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:21 GMT","location":"https://registry.npmmirror.com/fontkitten"},"options":{"compress":true},"status":301}}

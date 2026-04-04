@@ -1,0 +1,2 @@
+
+25cff304577b4ecd9822f51129e8c9cd76f39409	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vscode-uri","integrity":null,"time":1775309032638,"size":"262","metadata":{"time":1775309032638,"url":"https://registry.npm.taobao.org/vscode-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:53 GMT","location":"https://registry.npmmirror.com/vscode-uri"},"options":{"compress":true},"status":301}}

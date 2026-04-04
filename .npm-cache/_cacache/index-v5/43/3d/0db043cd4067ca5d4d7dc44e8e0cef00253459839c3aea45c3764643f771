@@ -1,0 +1,2 @@
+
+7aa7625af1933ad4696a93389c645076b474e721	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/consola","integrity":null,"time":1775309043720,"size":"262","metadata":{"time":1775309043720,"url":"https://registry.npm.taobao.org/consola","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:04 GMT","location":"https://registry.npmmirror.com/consola"},"options":{"compress":true},"status":301}}

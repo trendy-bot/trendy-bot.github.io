@@ -1,0 +1,2 @@
+
+ebc872ca274618f06ba43ccf27e2f651442bd03f	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/pkg-types","integrity":null,"time":1775309079158,"size":"262","metadata":{"time":1775309079158,"url":"https://registry.npm.taobao.org/pkg-types","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:40 GMT","location":"https://registry.npmmirror.com/pkg-types"},"options":{"compress":true},"status":301}}

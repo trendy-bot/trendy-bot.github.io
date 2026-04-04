@@ -1,0 +1,2 @@
+
+ec94ca0dbe8c1b8016afd171dcd2b80810da67db	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/boolbase","integrity":null,"time":1775309067125,"size":"262","metadata":{"time":1775309067125,"url":"https://registry.npm.taobao.org/boolbase","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:27 GMT","location":"https://registry.npmmirror.com/boolbase"},"options":{"compress":true},"status":301}}

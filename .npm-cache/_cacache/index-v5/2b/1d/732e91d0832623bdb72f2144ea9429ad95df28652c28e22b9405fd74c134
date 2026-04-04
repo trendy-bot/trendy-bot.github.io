@@ -1,0 +1,2 @@
+
+217b9fa8d6870d09a789b29eb63e563a27030642	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/hast-util-select","integrity":null,"time":1775309073257,"size":"262","metadata":{"time":1775309073257,"url":"https://registry.npm.taobao.org/hast-util-select","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:34 GMT","location":"https://registry.npmmirror.com/hast-util-select"},"options":{"compress":true},"status":301}}

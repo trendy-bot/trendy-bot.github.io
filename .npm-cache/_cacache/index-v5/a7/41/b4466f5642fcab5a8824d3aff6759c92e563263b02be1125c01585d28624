@@ -1,0 +1,2 @@
+
+85495b901afe92c46af740960023b8a0dddf0162	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/synckit","integrity":null,"time":1775309062419,"size":"262","metadata":{"time":1775309062419,"url":"https://registry.npm.taobao.org/synckit","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:23 GMT","location":"https://registry.npmmirror.com/synckit"},"options":{"compress":true},"status":301}}

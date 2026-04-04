@@ -1,0 +1,2 @@
+
+d0c912ef028e9a9154841828a32b9bb937c0e8d3	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/dset","integrity":null,"time":1775309029098,"size":"262","metadata":{"time":1775309029098,"url":"https://registry.npm.taobao.org/dset","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/dset"},"options":{"compress":true},"status":301}}

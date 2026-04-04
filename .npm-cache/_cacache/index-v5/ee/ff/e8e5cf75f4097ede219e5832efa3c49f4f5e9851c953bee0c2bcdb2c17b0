@@ -1,0 +1,2 @@
+
+5b3adc8a4b1cac9c087e14a429ca1a38d9b882cc	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/prettier","integrity":null,"time":1775309026715,"size":"262","metadata":{"time":1775309026715,"url":"https://registry.npm.taobao.org/prettier","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:47 GMT","location":"https://registry.npmmirror.com/prettier"},"options":{"compress":true},"status":301}}

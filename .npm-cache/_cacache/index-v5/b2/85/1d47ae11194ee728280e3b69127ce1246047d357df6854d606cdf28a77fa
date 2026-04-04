@@ -1,0 +1,2 @@
+
+d375fb592c3e44dc0724a9c28e6b022d6fd3bf08	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/jsonc-parser","integrity":null,"time":1775309069354,"size":"262","metadata":{"time":1775309069354,"url":"https://registry.npm.taobao.org/jsonc-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:30 GMT","location":"https://registry.npmmirror.com/jsonc-parser"},"options":{"compress":true},"status":301}}

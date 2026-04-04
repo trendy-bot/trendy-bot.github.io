@@ -1,0 +1,2 @@
+
+99c463fe44b24671e4179334d11627505a97c423	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/aws4fetch","integrity":null,"time":1775309047251,"size":"262","metadata":{"time":1775309047251,"url":"https://registry.npm.taobao.org/aws4fetch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:08 GMT","location":"https://registry.npmmirror.com/aws4fetch"},"options":{"compress":true},"status":301}}

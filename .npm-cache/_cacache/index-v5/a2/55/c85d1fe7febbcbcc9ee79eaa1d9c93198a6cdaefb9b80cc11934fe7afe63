@@ -1,0 +1,2 @@
+
+52f4c7a2637062efc982fa00111320d0835dd066	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/node-mock-http","integrity":null,"time":1775309067776,"size":"262","metadata":{"time":1775309067776,"url":"https://registry.npm.taobao.org/node-mock-http","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:28 GMT","location":"https://registry.npmmirror.com/node-mock-http"},"options":{"compress":true},"status":301}}

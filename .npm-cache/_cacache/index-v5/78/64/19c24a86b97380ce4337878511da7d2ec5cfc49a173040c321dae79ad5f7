@@ -1,0 +1,2 @@
+
+c794e89157b22488cbe67fcc0449ef0e4b60ca7d	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/destr","integrity":null,"time":1775309060806,"size":"262","metadata":{"time":1775309060806,"url":"https://registry.npm.taobao.org/destr","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:21 GMT","location":"https://registry.npmmirror.com/destr"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+5642a1d697336b384942e092be00fd1b77a41862	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/cssesc","integrity":null,"time":1775309029004,"size":"262","metadata":{"time":1775309029004,"url":"https://registry.npm.taobao.org/cssesc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/cssesc"},"options":{"compress":true},"status":301}}

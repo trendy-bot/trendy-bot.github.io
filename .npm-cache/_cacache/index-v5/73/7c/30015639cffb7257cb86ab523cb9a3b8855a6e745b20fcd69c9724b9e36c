@@ -1,0 +1,2 @@
+
+40924137fa5c262dc3934977b204d6b8f1c0d587	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/duplexer","integrity":null,"time":1775309079950,"size":"262","metadata":{"time":1775309079950,"url":"https://registry.npm.taobao.org/duplexer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:40 GMT","location":"https://registry.npmmirror.com/duplexer"},"options":{"compress":true},"status":301}}

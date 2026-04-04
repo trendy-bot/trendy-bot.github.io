@@ -1,0 +1,2 @@
+
+125d2bc652297b42e5eab6ef25770869ced19f93	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/piccolore","integrity":null,"time":1775309028717,"size":"262","metadata":{"time":1775309028717,"url":"https://registry.npm.taobao.org/piccolore","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:49 GMT","location":"https://registry.npmmirror.com/piccolore"},"options":{"compress":true},"status":301}}

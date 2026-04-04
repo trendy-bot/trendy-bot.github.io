@@ -1,0 +1,2 @@
+
+6293249ab604cb52a8e34b37a0578d670335184a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/uncrypto","integrity":null,"time":1775309067675,"size":"262","metadata":{"time":1775309067675,"url":"https://registry.npm.taobao.org/uncrypto","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:28 GMT","location":"https://registry.npmmirror.com/uncrypto"},"options":{"compress":true},"status":301}}

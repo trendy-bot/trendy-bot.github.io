@@ -1,0 +1,2 @@
+
+71087de045e43e3160dc3520534daef62cbdcc80	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/vscode-languageserver-types","integrity":null,"time":1775309033553,"size":"262","metadata":{"time":1775309033553,"url":"https://registry.npm.taobao.org/vscode-languageserver-types","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:23:54 GMT","location":"https://registry.npmmirror.com/vscode-languageserver-types"},"options":{"compress":true},"status":301}}

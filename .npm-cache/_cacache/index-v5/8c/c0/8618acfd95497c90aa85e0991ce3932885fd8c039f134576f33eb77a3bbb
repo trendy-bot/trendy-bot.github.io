@@ -1,0 +1,2 @@
+
+c3744a881badc9de51c1404104a7f39fd690a29a	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/nopt","integrity":null,"time":1775309043729,"size":"262","metadata":{"time":1775309043729,"url":"https://registry.npm.taobao.org/nopt","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:04 GMT","location":"https://registry.npmmirror.com/nopt"},"options":{"compress":true},"status":301}}

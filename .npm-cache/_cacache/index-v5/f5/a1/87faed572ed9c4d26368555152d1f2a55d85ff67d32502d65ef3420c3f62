@@ -1,0 +1,2 @@
+
+cfd14bd43195e02c2856ca5da7969e34094c0797	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/dom-serializer","integrity":null,"time":1775309067211,"size":"262","metadata":{"time":1775309067210,"url":"https://registry.npm.taobao.org/dom-serializer","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:28 GMT","location":"https://registry.npmmirror.com/dom-serializer"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+37084d4e4ae4726acc3e0822f5d6eda661dc7756	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/cli-boxes","integrity":null,"time":1775309060395,"size":"262","metadata":{"time":1775309060395,"url":"https://registry.npm.taobao.org/cli-boxes","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:21 GMT","location":"https://registry.npmmirror.com/cli-boxes"},"options":{"compress":true},"status":301}}

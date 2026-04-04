@@ -1,0 +1,2 @@
+
+7380d0d465e356849dd77ebccb5781ce2018b1ae	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/rollup","integrity":null,"time":1775309042498,"size":"262","metadata":{"time":1775309042498,"url":"https://registry.npm.taobao.org/rollup","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:03 GMT","location":"https://registry.npmmirror.com/rollup"},"options":{"compress":true},"status":301}}

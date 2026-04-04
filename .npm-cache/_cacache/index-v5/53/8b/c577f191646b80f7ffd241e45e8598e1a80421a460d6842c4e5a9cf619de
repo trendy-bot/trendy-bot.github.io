@@ -1,0 +1,2 @@
+
+0643cb96d5e2b6cf7711f026c80db068493c428c	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@pagefind%2fdarwin-x64","integrity":null,"time":1775309074932,"size":"262","metadata":{"time":1775309074932,"url":"https://registry.npm.taobao.org/@pagefind%2fdarwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:35 GMT","location":"https://registry.npmmirror.com/@pagefind%2fdarwin-x64"},"options":{"compress":true},"status":301}}

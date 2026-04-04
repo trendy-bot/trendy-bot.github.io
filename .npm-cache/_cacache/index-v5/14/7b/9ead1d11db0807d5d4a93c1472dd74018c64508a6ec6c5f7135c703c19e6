@@ -1,0 +1,2 @@
+
+226ac98e39605963ae6d16c2688643bf1d8e1125	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/express","integrity":null,"time":1775309058912,"size":"262","metadata":{"time":1775309058912,"url":"https://registry.npm.taobao.org/express","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:19 GMT","location":"https://registry.npmmirror.com/express"},"options":{"compress":true},"status":301}}

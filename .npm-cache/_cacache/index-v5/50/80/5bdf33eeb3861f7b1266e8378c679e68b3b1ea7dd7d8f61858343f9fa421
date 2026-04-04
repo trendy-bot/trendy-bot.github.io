@@ -1,0 +1,2 @@
+
+104869a9be6ee811b2f170ff1bcac20d66f25a72	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/ohash","integrity":null,"time":1775309060723,"size":"262","metadata":{"time":1775309060723,"url":"https://registry.npm.taobao.org/ohash","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:21 GMT","location":"https://registry.npmmirror.com/ohash"},"options":{"compress":true},"status":301}}

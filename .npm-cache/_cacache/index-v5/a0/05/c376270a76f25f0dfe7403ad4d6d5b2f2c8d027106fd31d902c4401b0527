@@ -1,0 +1,2 @@
+
+b569cb9b5a1ca436e5d7b1790fe58ec044184646	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@isaacs%2ffs-minipass","integrity":null,"time":1775309044024,"size":"262","metadata":{"time":1775309044024,"url":"https://registry.npm.taobao.org/@isaacs%2ffs-minipass","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:04 GMT","location":"https://registry.npmmirror.com/@isaacs%2ffs-minipass"},"options":{"compress":true},"status":301}}

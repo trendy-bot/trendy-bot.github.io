@@ -1,0 +1,2 @@
+
+35bf20098309f20b8e379a731007c300bbeed58b	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/@tidbcloud%2fserverless","integrity":null,"time":1775309054935,"size":"262","metadata":{"time":1775309054935,"url":"https://registry.npm.taobao.org/@tidbcloud%2fserverless","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:15 GMT","location":"https://registry.npmmirror.com/@tidbcloud%2fserverless"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+0823895e02251f98382da15c343e8fd1f0caa736	{"key":"make-fetch-happen:request-cache:https://registry.npm.taobao.org/file-uri-to-path","integrity":null,"time":1775309043725,"size":"262","metadata":{"time":1775309043725,"url":"https://registry.npm.taobao.org/file-uri-to-path","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 04 Apr 2026 13:24:04 GMT","location":"https://registry.npmmirror.com/file-uri-to-path"},"options":{"compress":true},"status":301}}
