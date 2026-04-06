@@ -31,6 +31,92 @@
   animation-delay: 150ms;
 }
 
+/* [Background Effects] */
+@keyframes animateParticle {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-2000px);
+  }
+}
+@keyframes animStar {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-2000px);
+  }
+}
+
+/* Twinkling Stars */
+#twinkle-star.template {
+  position: absolute;
+  left: -100%;
+}
+#twinkle-star.twinkle {
+  animation: twinkle 2s ease-in-out forwards;
+}
+@keyframes twinkle {
+  0% {
+    opacity: 0;
+    transform: rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: rotate(180deg);
+  }
+  100% {
+    opacity: 0;
+    transform: rotate(360deg);
+  }
+}
+
+/* Meteors */
+#meteors .shower {
+  position: absolute;
+  inset: 0;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  aspect-ratio: 1/1;
+}
+#meteors .meteor {
+  animation: meteor 3s ease-in-out forwards;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1px;
+  height: 75vh;
+  background: linear-gradient(to bottom, white, transparent);
+}
+#meteors .shower.ur {
+  transform: translateX(-50%) rotate(45deg);
+}
+#meteors .shower.dr {
+  transform: translateX(-50%) rotate(135deg);
+}
+#meteors .shower.dl {
+  transform: translateX(-50%) rotate(225deg);
+}
+#meteors .shower.ul {
+  transform: translateX(-50%) rotate(315deg);
+}
+@keyframes meteor {
+  0% {
+    opacity: 0;
+    transform: translateY(200%);
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(0);
+  }
+}
+
 /* [Katex] */
 span.katex-display {
   overflow-y: scroll;

@@ -1,0 +1,31 @@
+---
+---
+
+<div id="meteors">
+  <div class="shower ur" />
+  <div class="shower dr" />
+  <div class="shower dl" />
+  <div class="shower ul" />
+</div>
+
+<script>
+  function createMeteor() {
+    let meteor = document.createElement("div")
+    meteor.setAttribute("class", "meteor")
+    meteor.style.left = Math.round(Math.random() * window.innerWidth) + "px"
+    meteor.style.top = Math.round(Math.random() * window.innerHeight) + "px"
+
+    const showers = document.querySelectorAll(".shower")
+    if (showers.length > 0) {
+      const random = Math.floor(Math.random() * showers.length)
+      const shower = showers[random]
+      shower.append(meteor)
+    }
+
+    setTimeout(() => {
+      meteor.remove()
+    }, 3500)
+  }
+
+  setInterval(createMeteor, 1500)
+</script>
