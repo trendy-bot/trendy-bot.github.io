@@ -2,6 +2,7 @@
 import config from 'virtual:config'
 
 import { Icon } from '../user'
+import { ModalSearch } from '../pages'
 ---
 
 <header-component
@@ -33,10 +34,10 @@ import { Icon } from '../user'
           ))
         }
         <div class='flex w-full grow flex-row justify-end gap-x-3 sm:w-fit sm:gap-x-5'>
-          <a class='px-1 py-2 transition-none sm:px-2' href='/search' title='Search'>
+          <button id='open-search-modal' class='px-1 py-2 transition-none sm:px-2' title='Search'>
             <span class='sr-only'>Search</span>
             <Icon name='search' class='size-5' />
-          </a>
+          </button>
         </div>
       </div>
     </div>
@@ -62,6 +63,8 @@ import { Icon } from '../user'
     </div>
   </div>
 </header-component>
+
+<ModalSearch />
 
 {/* Use inline to load icon quicker firstly */}
 <script is:inline>
