@@ -66,14 +66,27 @@ import '../../../../src/assets/styles/pagefind.css'
 
   openBtn?.addEventListener('click', () => modal?.showModal())
 
+  // 关闭弹窗时添加动画
+  const closeModalWithAnimation = () => {
+    if (!modal) return
+    modal.classList.add('closing')
+    // 等待动画完成后关闭
+    setTimeout(() => {
+      modal.classList.remove('closing')
+      modal.close()
+    }, 200) // 与动画时长一致
+  }
+
   modal?.addEventListener('click', (e) => {
-    if (e.target === modal) modal.close()
+    if (e.target === modal) {
+      closeModalWithAnimation()
+    }
   })
 
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape' && modal?.open) {
       e.preventDefault()
-      modal.close()
+      closeModalWithAnimation()
     }
   })
 </script>
@@ -104,6 +117,11 @@ import '../../../../src/assets/styles/pagefind.css'
     animation: modal-in 0.2s ease-out;
   }
 
+  /* 出场动画：向上淡出 */
+  dialog.closing {
+    animation: modal-out 0.2s ease-in forwards;
+  }
+
   @keyframes modal-in {
     from {
       opacity: 0;
@@ -113,6 +131,18 @@ import '../../../../src/assets/styles/pagefind.css'
     to {
       opacity: 1;
       transform: translate(-50%, 0) scale(1);
+    }
+  }
+
+  @keyframes modal-out {
+    from {
+      opacity: 1;
+      transform: translate(-50%, 0) scale(1);
+    }
+    to {
+      opacity: 0;
+      /* 向上移动并缩小 */
+      transform: translate(-50%, -10px) scale(0.95);
     }
   }
 
