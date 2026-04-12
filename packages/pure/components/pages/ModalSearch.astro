@@ -64,23 +64,34 @@ import '../../../../src/assets/styles/pagefind.css'
   const modal = document.getElementById('search-modal') as HTMLDialogElement | null
   const openBtn = document.getElementById('open-search-modal')
 
-  openBtn?.addEventListener('click', () => modal?.showModal())
+  const getScrollbarWidth = () => {
+    return window.innerWidth - document.documentElement.clientWidth
+  }
 
-  // 关闭弹窗时添加动画
+  const openModal = () => {
+    const scrollbarWidth = getScrollbarWidth()
+    if (scrollbarWidth > 0) {
+      document.body.style.paddingRight = `${scrollbarWidth}px`
+    }
+    document.body.style.overflow = 'hidden'
+    modal?.showModal()
+  }
+
   const closeModalWithAnimation = () => {
     if (!modal) return
     modal.classList.add('closing')
-    // 等待动画完成后关闭
     setTimeout(() => {
       modal.classList.remove('closing')
       modal.close()
-    }, 200) // 与动画时长一致
+      document.body.style.overflow = ''
+      document.body.style.paddingRight = ''
+    }, 200)
   }
 
+  openBtn?.addEventListener('click', openModal)
+
   modal?.addEventListener('click', (e) => {
-    if (e.target === modal) {
-      closeModalWithAnimation()
-    }
+    if (e.target === modal) closeModalWithAnimation()
   })
 
   document.addEventListener('keydown', (e) => {
