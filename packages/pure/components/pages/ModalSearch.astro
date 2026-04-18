@@ -11,10 +11,12 @@ import '../../../../src/assets/styles/pagefind.css'
 -->
 <dialog
   id='search-modal'
-  class='fixed top-[15vh] left-1/2 -translate-x-1/2 m-0
-         bg-background border border-border rounded-xl shadow-2xl
-         w-full max-w-xl max-h-[33.33vh]
-         overflow-hidden p-4'
+  class='fixed top-[10vh] left-1/2 -translate-x-1/2 m-0
+         bg-background/95 border border-border/60 rounded-2xl
+         w-[90vw] max-w-2xl max-h-[70vh]
+         overflow-hidden p-5
+         shadow-[0_25px_50px_-12px_rgba(0,0,0,0.25),0_0_0_1px_rgba(255,255,255,0.05)_inset]
+         backdrop-blur-xl'
 >
   <site-search>
     {
@@ -104,44 +106,60 @@ import '../../../../src/assets/styles/pagefind.css'
 
 <style is:global>
   #site-search {
-    --pagefind-ui-scale: 0.85;
+    --pagefind-ui-scale: 0.9;
     --pagefind-ui-primary: hsl(var(--primary) / var(--un-bg-opacity, 1));
     --pagefind-ui-text: hsl(var(--foreground) / var(--un-text-opacity, 1));
     --pagefind-ui-background: hsl(var(--muted) / var(--un-bg-opacity, 1));
     --pagefind-ui-border: hsl(var(--border) / var(--un-border-opacity, 1));
     --pagefind-ui-tag: hsl(var(--muted-foreground) / var(--un-text-opacity, 1));
-    --pagefind-ui-border-width: 2px;
-    --pagefind-ui-border-radius: calc(var(--radius) + 2px);
-    --pagefind-ui-image-border-radius: calc(var(--radius) + 2px);
+    --pagefind-ui-border-width: 1.5px;
+    --pagefind-ui-border-radius: calc(var(--radius) + 4px);
+    --pagefind-ui-image-border-radius: calc(var(--radius) + 4px);
     --pagefind-ui-image-box-ratio: 3 / 2;
-    --pagefind-ui-font: sans-serif;
+    --pagefind-ui-font: system-ui, -apple-system, sans-serif;
   }
 
   /* 遮罩层动画 */
   dialog::backdrop {
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(2px);
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.6) 100%);
+    backdrop-filter: blur(8px);
+    animation: backdrop-in 0.3s ease-out;
   }
 
-  /* 仿 Shiro 进场动画：固定上沿的同时向下弹出 */
+  dialog.closing::backdrop {
+    animation: backdrop-out 0.25s ease-in forwards;
+  }
+
+  @keyframes backdrop-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  @keyframes backdrop-out {
+    from { opacity: 1; }
+    to { opacity: 0; }
+  }
+
+  /* 进场动画：从上方优雅弹出 */
   dialog[open] {
-    animation: modal-in 0.2s ease-out;
+    animation: modal-in 0.35s cubic-bezier(0.16, 1, 0.3, 1);
   }
 
   /* 出场动画：向上淡出 */
   dialog.closing {
-    animation: modal-out 0.2s ease-in forwards;
+    animation: modal-out 0.25s cubic-bezier(0.4, 0, 0.2, 1) forwards;
   }
 
   @keyframes modal-in {
     from {
       opacity: 0;
-      /* 这里的 translate 必须包含水平居中的 -50% */
-      transform: translate(-50%, -10px) scale(0.95);
+      transform: translate(-50%, -20px) scale(0.96);
+      filter: blur(4px);
     }
     to {
       opacity: 1;
       transform: translate(-50%, 0) scale(1);
+      filter: blur(0);
     }
   }
 
@@ -149,11 +167,12 @@ import '../../../../src/assets/styles/pagefind.css'
     from {
       opacity: 1;
       transform: translate(-50%, 0) scale(1);
+      filter: blur(0);
     }
     to {
       opacity: 0;
-      /* 向上移动并缩小 */
-      transform: translate(-50%, -10px) scale(0.95);
+      transform: translate(-50%, -16px) scale(0.98);
+      filter: blur(4px);
     }
   }
 </style>

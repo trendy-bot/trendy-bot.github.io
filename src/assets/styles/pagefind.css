@@ -32,9 +32,10 @@
 .pagefind-ui__results-area {
   min-width: min(calc(400px * var(--pagefind-ui-scale)), 100%) !important;
   flex: 1 !important;
-  margin-top: 0.5rem !important;
+  margin-top: 0.75rem !important;
   overflow-y: auto !important;
-  max-height: calc(33.33vh - 64px) !important;
+  max-height: calc(70vh - 140px) !important;
+  padding-right: 0.5rem !important;
 }
 
 /* 结果计数消息 */
@@ -52,8 +53,15 @@
 
 /* 单个结果项 */
 .pagefind-ui__result {
-  padding: 0.75rem 0 !important;
+  padding: 0.875rem 0.5rem !important;
+  margin: 0 -0.5rem !important;
   border-top: 1px solid hsl(var(--border) / var(--un-border-opacity, 1)) !important;
+  border-radius: calc(var(--pagefind-ui-border-radius) / 2) !important;
+  transition: background-color 0.15s ease !important;
+}
+
+.pagefind-ui__result:hover {
+  background-color: hsl(var(--muted) / 0.3) !important;
 }
 
 .pagefind-ui__result:last-of-type {
@@ -174,9 +182,25 @@
 
 /* 滚动条样式 */
 .pagefind-ui__results-area::-webkit-scrollbar {
-  width: 4px;
+  width: 5px;
 }
+
+.pagefind-ui__results-area::-webkit-scrollbar-track {
+  background: transparent;
+}
+
 .pagefind-ui__results-area::-webkit-scrollbar-thumb {
   background: hsl(var(--border) / var(--un-border-opacity, 1)) !important;
   border-radius: 10px;
+  transition: background 0.2s ease;
+}
+
+.pagefind-ui__results-area::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.4) !important;
+}
+
+/* 结果区域容器 */
+.pagefind-ui__results-area {
+  scrollbar-width: thin;
+  scrollbar-color: hsl(var(--border) / var(--un-border-opacity, 1)) transparent;
 }
