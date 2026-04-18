@@ -33,6 +33,8 @@
   min-width: min(calc(400px * var(--pagefind-ui-scale)), 100%) !important;
   flex: 1 !important;
   margin-top: 0.5rem !important;
+  overflow-y: auto !important;
+  max-height: calc(33.33vh - 64px) !important;
 }
 
 /* 结果计数消息 */
@@ -168,4 +170,13 @@
   background-color: hsl(var(--foreground) / var(--un-text-opacity, 1)) !important;
   border-radius: var(--pagefind-ui-border-radius) !important;
   opacity: 0.1 !important;
+}
+
+/* 滚动条样式 */
+.pagefind-ui__results-area::-webkit-scrollbar {
+  width: 4px;
+}
+.pagefind-ui__results-area::-webkit-scrollbar-thumb {
+  background: hsl(var(--border) / var(--un-border-opacity, 1)) !important;
+  border-radius: 10px;
 }
