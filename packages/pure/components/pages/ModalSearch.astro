@@ -79,6 +79,17 @@ import '../../../../src/assets/styles/pagefind.css'
     modal?.showModal()
   }
 
+  const resetSearchState = () => {
+      const searchInput = modal?.querySelector<HTMLInputElement>('.pagefind-ui__search-input')
+      if (searchInput) {
+        searchInput.value = ''
+      }
+      const filterChecks = modal?.querySelectorAll<HTMLInputElement>('.pagefind-ui__filter-check')
+      filterChecks?.forEach((check) => {
+        check.checked = false
+      })
+    }
+
   const closeModalWithAnimation = () => {
     if (!modal) return
     modal.classList.add('closing')
@@ -87,6 +98,7 @@ import '../../../../src/assets/styles/pagefind.css'
       modal.close()
       document.body.style.overflow = ''
       document.body.style.paddingRight = ''
+      resetSearchState()
     }, 200)
   }
 
